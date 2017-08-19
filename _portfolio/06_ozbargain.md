@@ -8,21 +8,21 @@ sidebar:
   - title: "Role"
     text: "UX/UI Design, Art Direction "
   - title: "tl;dr"
-    text: "Reorganised the menu/header, made the user feel like they owned their account and felt a part of the community. Site owner liked it and mentioned he may steal some ideas!"
+    text: "Reorganised the menu/header, made the user feel like they owned their account and felt a part of the community. Site owner liked it and mentioned he may steal some ideas! :blush:"
   - title: "Tools"
     text: "Photoshop, Illustrator, Axure"
   - title: "Year"
     text: "2013"
 gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
+  - url: /assets/images/ozb.png
+    image_path: /assets/images/previews_ozbargain-hp-min.jpg
+    alt: "After Redesigned"
+  - url: /assets/images/ozb-original.png
+    image_path: assets/images/previews_ozbargain-before-min.jpg
+    alt: "Before Redesigned"
+  - url: /assets/images/ozb-wireframe.png
+    image_path: assets/images/previews_ozbargain-wf-min.jpg
+    alt: "Wireframe"
 ---
 
 {% include gallery %}
@@ -45,4 +45,4 @@ As mentioned earlier, I wanted the user to feel like they *owned* their account.
 
 The rest of the page just needed some cleaning up. I maintained the colours used in the original, but made the menu the dark grey so as to not detract from the main content of the site.  Added the orange brand colour to the title links and added tags next to them so that users are able to identify at a glance if a deal is marked `new`, `expired`, `freebie` etc. I updated the logo in Illustrator to be more modern and aligned with the new design. I think it turned out nice.
 
-Overall I am quite pleased with the results. I didn't want to spend too long on it so I only made the main top half of the site. I sent it to the site owner, Scotty as a form of fan mail. I didn't want anything from him out of this project, so I was surprised when he replied to me informing he liked it and would steal some ideas :D I'd like to think that I had a part in some of the new site elements today ;)
+Overall I am quite pleased with the results. I didn't want to spend too long on it so I only made the main top half of the site. I sent it to the site owner, Scotty as a form of fan mail. I didn't want anything from him out of this project, so I was surprised when he replied to me informing he liked it and would steal some ideas :blush: I'd like to think that I had a part in some of the new site elements today :wink:
