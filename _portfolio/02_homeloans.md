@@ -1,8 +1,10 @@
 ---
 title: "Homeloans"
-feature-img:
-teaser: /assets/images/homeloansthumb.png
-short-description: One-page landing page
+excerpt: "One-page landing page"
+header:
+  feature-img:
+  teaser: /assets/images/homeloansthumb.png
+
 
 ---
 

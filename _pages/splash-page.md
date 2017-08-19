@@ -13,7 +13,7 @@ header:
 excerpt: "Cat Lover. Gamer. LA Dodgers fan. Geek."
 intro:
   - excerpt:
-feature_row:
+<!--feature_row:
   - image_path: assets/images/mwavethumb.png
     alt: "mwave"
     title: "mwave design task"
@@ -62,3 +62,10 @@ feature_row4:
 {% include feature_row id="feature_row2" type="left" %}
 
 {% include feature_row id="feature_row3" type="right" %}
+ -->
+
+<div class="grid__wrapper">
+  {% for post in site.portfolio %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+</div>

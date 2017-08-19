@@ -1,9 +1,8 @@
 ---
-layout: single
 title: "mwave"
-excerpt: Checkout redesign & rebrand
+excerpt: "Checkout redesign & rebrand"
 header:
-  image:
+  image: /assets/images/mwavethumb.png
   teaser: /assets/images/mwavethumb.png
 sidebar:
   - title: "Role"

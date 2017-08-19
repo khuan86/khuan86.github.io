@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Katie Huan"
+title                    : "KH"
 title_separator          : "-"
 name                     : "Katie Huan"
 description              : "UX/UI Designer - Katie Huan"
@@ -252,4 +252,4 @@ collections:
     output: true
     permalink: /:collection/:path/
     values:
-      author_profile: true
+      author_profile: false
