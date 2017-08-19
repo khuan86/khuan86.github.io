@@ -1,16 +1,33 @@
 ---
-
-title: OpenAgent
-teaser: "/assets/images/openagentprofilethumb.png"
-short-description: Agent profile page redesign
+title: "OpenAgent"
+excerpt: "Redesign agent profile page"
+header:
+  image:
+  teaser: "/assets/images/openagentprofilethumb.png"
+sidebar:
+  - title: "Role"
+    text: "UX/UI Design, Art Direction"
+  - title: "Brief"
+    text: "Redesign agent profile page"
+  - title: "Tools"
+    text: "Photoshop"
+gallery:
+  - url: /assets/images/unsplash-gallery-image-1.jpg
+    image_path: assets/images/unsplash-gallery-image-1-th.jpg
+    alt: "placeholder image 1"
+  - url: /assets/images/unsplash-gallery-image-2.jpg
+    image_path: assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+  - url: /assets/images/unsplash-gallery-image-3.jpg
+    image_path: assets/images/unsplash-gallery-image-3-th.jpg
+    alt: "placeholder image 3"
 
 ---
 
-> **Role:** UX/UI Design, Art Direction
-> **Brief:** Redesign agent profile page
-> **Tools:** Photoshop
+{% include gallery %}
 
 **tl;dr:** New design looks more organised. Keeps content focused and easy to read.
+{: notice}
 
 Problem
 ------------

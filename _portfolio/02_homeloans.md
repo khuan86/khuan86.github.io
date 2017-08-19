@@ -25,10 +25,7 @@ gallery:
 
 ---
 
-<div class="notice">
-  <p>**tl;dr:**  New landing page looks reassuring and easy for users to enter their details in. Utilising emotive and action words to convey that messaging across, backed by the use of relatable imagery in the background.
-  </p>
-</div>
+**tl;dr:**  New landing page looks reassuring and easy for users to enter their details in. Utilising emotive and action words to convey that messaging across, backed by the use of relatable imagery in the background.
 
 Problem
 ------------

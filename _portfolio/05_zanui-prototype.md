@@ -1,15 +1,32 @@
 ---
-title: Zanui
-teaser: "/assets/images/zanuithumb.png"
-short-description: Product page to checkout prototype
-
+title: "Zanui"
+excerpt: "Product page to checkout prototype"
+header:
+  image:
+  teaser: "/assets/images/zanuithumb.png"
+sidebar:
+  - title: "Role"
+    text: "UX/UI Design"
+  - title: "Brief"
+    text: "Optimise the product page to checkout user-flow & create a working prototype"
+  - title: "Tools"
+    text: "Axure"
+gallery:
+  - url: /assets/images/unsplash-gallery-image-1.jpg
+    image_path: assets/images/unsplash-gallery-image-1-th.jpg
+    alt: "placeholder image 1"
+  - url: /assets/images/unsplash-gallery-image-2.jpg
+    image_path: assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+  - url: /assets/images/unsplash-gallery-image-3.jpg
+    image_path: assets/images/unsplash-gallery-image-3-th.jpg
+    alt: "placeholder image 3"
 ---
 
-> **Role:** UX Design
-> **Brief:** Optimise the product page to checkout user-flow & create a working prototype
-> **Tools:** Axure
+{% include gallery %}
 
 **tl;dr:** Introduced new features to the product page & checkout. Increased conversion rates by 23%. Made a prototype.
+{: notice}
 
 Problem
 ------------

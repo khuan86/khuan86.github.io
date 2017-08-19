@@ -1,15 +1,32 @@
 ---
-title: OpenAgent
-teaser: "/assets/images/openagenthpthumb.png"
-short-description: Homepage redesign & rebrand
+title: "OpenAgent"
+excerpt: "Homepage redesign & rebrand"
+header:
+  image:
+  teaser: "/assets/images/openagenthpthumb.png"
+sidebar:
+  - title: "Role"
+    text: "UX/UI Design, Art Direction"
+  - title: "Brief"
+    text: "Redesign and rebrand the homepage/company"
+  - title: "Tools"
+    text: "Photoshop, Illustrator"
+gallery:
+  - url: /assets/images/unsplash-gallery-image-1.jpg
+    image_path: assets/images/unsplash-gallery-image-1-th.jpg
+    alt: "placeholder image 1"
+  - url: /assets/images/unsplash-gallery-image-2.jpg
+    image_path: assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+  - url: /assets/images/unsplash-gallery-image-3.jpg
+    image_path: assets/images/unsplash-gallery-image-3-th.jpg
+    alt: "placeholder image 3"
+
 
 ---
 
-> **Role:** UX/UI Design, Art direction
-> **Brief:** Redesign and rebrand the homepage/company
-> **Tools:** Photoshop, Illustrator
-
 **tl;dr:** New design has a stronger brand identity that looks welcoming, trustworthy and professional.
+{: notice}
 
 Problem
 ------------
