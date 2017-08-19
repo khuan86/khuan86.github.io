@@ -1,5 +1,5 @@
 ---
-title: "UX/UI Designer. Cat Lover. Gamer. LA Dodgers fan."
+title: "UX/UI Designer."
 layout: splash
 permalink: /
 date: 2017-08-18T11:48:41-04:00
@@ -10,7 +10,7 @@ header:
   cta_label:
   cta_url:
   caption:
-excerpt:
+excerpt: "Cat Lover. Gamer. LA Dodgers fan. Geek."
 intro:
   - excerpt:
 feature_row:
@@ -18,6 +18,7 @@ feature_row:
     alt: "mwave"
     title: "mwave design task"
     excerpt: "Checkout redesign & rebrand"
+    url: "/portfolio/01-mwave/"
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
     title: "Placeholder 2"

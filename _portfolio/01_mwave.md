@@ -1,9 +1,9 @@
 ---
-layout: single
 title: "mwave"
 excerpt: Checkout redesign & rebrand
-feature-img:
-teaser: /assets/images/mwavethumb.png
+header:
+  image:
+  teaser: /assets/images/mwavethumb.png
 sidebar:
   - title: "Role"
     text: "UX/UI design, product management"
