@@ -8,7 +8,7 @@ sidebar:
   - title: "Role"
     text: "UX/UI Design, Art Direction "
   - title: "tl;dr"
-    text: "Reorganised the menu/header, made the user feel like they owned their account and felt a part of the community. Site owner liked it and mentioned he may steal some ideas! :blush:"
+    text: "Reorganised the menu/header, made the user feel like they owned their account and felt a part of the community. Site owner liked it and mentioned he may steal some ideas!"
   - title: "Tools"
     text: "Photoshop, Illustrator, Axure"
   - title: "Year"
