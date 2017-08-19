@@ -251,3 +251,5 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+    values:
+      author_profile: true
