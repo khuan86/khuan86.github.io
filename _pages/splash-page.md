@@ -15,8 +15,9 @@ intro:
   - excerpt:
 ---
 
+<h2>Projects</h2>
+
 <div class="grid__wrapper">
-  <h2>Projects</h2>
   {% for post in site.portfolio %}
     {% include archive-single.html type="grid" %}
   {% endfor %}
