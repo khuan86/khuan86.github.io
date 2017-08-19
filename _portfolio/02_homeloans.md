@@ -1,8 +1,7 @@
 ---
-layout: post
-title: Homeloans
+title: "Homeloans"
 feature-img:
-thumbnail-path: "/assets/images/homeloansthumb.png"
+teaser: /assets/images/homeloansthumb.png
 short-description: One-page landing page
 
 ---

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Zanui
-feature-img:
-thumbnail-path: "/assets/images/zanuithumb.png"
+teaser: "/assets/images/zanuithumb.png"
 short-description: Product page to checkout prototype
 
 ---

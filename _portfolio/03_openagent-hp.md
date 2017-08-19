@@ -1,8 +1,6 @@
 ---
-layout: post
 title: OpenAgent
-feature-img:
-thumbnail-path: "/assets/images/openagenthpthumb.png"
+teaser: "/assets/images/openagenthpthumb.png"
 short-description: Homepage redesign & rebrand
 
 ---

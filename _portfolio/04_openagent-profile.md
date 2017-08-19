@@ -1,8 +1,7 @@
 ---
-layout: post
+
 title: OpenAgent
-feature-img:
-thumbnail-path: "/assets/images/openagentprofilethumb.png"
+teaser: "/assets/images/openagentprofilethumb.png"
 short-description: Agent profile page redesign
 
 ---
