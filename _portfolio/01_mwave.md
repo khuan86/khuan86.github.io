@@ -24,22 +24,19 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-> **Role:** UX/UI design, product management
-> **Brief:**
-> **Tools:**  Balsamiq, Photoshop
+**tl;dr:** Designed a less confusing checkout for new and existing customers. The end result is a clean, focused and fast checkout that is simple to follow and understand whilst maintaining the brand.
+{: notice}
 
-> **tl;dr:** Designed a less confusing checkout for new and existing customers. The end result is a clean, focused and fast checkout that is simple to follow and understand whilst maintaining the brand.{: notice}
+## Problem
 
-Problem
-------------
 The old checkout flow is quite clunky and all over the place. There were too many steps to achieve a simple goal: purchase the items quickly and painlessly. It was also not responsive, therefore making mobile transactions very frustrating to use.
 
 The previous design was a copy of Amazon's checkout. While it may have worked at the time as a quick fix, over time with additions to the checkout such as mwave dollars (store credit) and various delivery options, the checkout became too cumbersome to navigate and confusing for newer users.
 
 The web design was also not aligned with the rest of their branding eg. different button styles. Font sizes were all varied, some sections were not aligned properly etc. It definitely required a much needed "designer's touch".
 
-Solution
-------------
+## Solution
+
 #### UX
 Many users (such as myself) tend to forget they've already made an account with a website. During the checkout process, you want the user to complete their transaction as soon as possible, so instead of having two columns asking the user to pick an option (login or create an account), I consolidated this into one simple field: `Please enter your email address`. This simple change meant that the user didn't have to think if they've created an account before or not, thus making it much easier for them to get through checkout and making the checkout process a pleasant experience right from the start. The form will validate whether or not the user already has an account and will present them with the proper step (create or enter your password).
 
@@ -56,8 +53,7 @@ The purple and yellow colours from the mwave logo has been used throughout the r
 
 I've paid extra attention to ensure the colour schemes used here is not jarring for the user. I maintained its brand identity whilst keeping it up-to-date with current design trends. With healthy use of white space, text line-spacing and icons, it helped achieved a well balanced design of functionality and aesthetics.
 
-Before
----------
+## Before
 
 ![mwave checkout before](/assets/images/before-mwavecheckout.png "Checkout before")
 
@@ -65,8 +61,8 @@ Before
 
 ![mwave checkout before](/assets/images/before-mwavecheckout2.png "Checkout before")
 
-After
--------
+## After
+
 Welcome screen
 ![Welcome screen](/assets/images/after-mwave_checkout-welcome.png "Welcome screen")
 [(View original size)](/assets/images/after-mwave_checkout-welcome.png)
@@ -83,8 +79,8 @@ Existing user screen after filling in required information
 ![Existing user screen after filling in required information](/assets/images/after-mwave_checkout-existinguser-payment.png "Existing user screen after filling in required information")
 [(View original size)](/assets/images/after-mwave_checkout-existinguser-payment.png)
 
-Wireframes
-----------------
+## Wireframes
+
 ![Checkout mobile wireframe](/assets/images/wireframe-mwave-mobile-tablet-view.png "Checkout mobile wireframe")
 
 ----------
