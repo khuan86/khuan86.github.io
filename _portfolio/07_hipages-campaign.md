@@ -3,7 +3,7 @@ title: "Hipages"
 excerpt: "Created an entirely new feature for advertiser's to manage their ad campaigns"
 header:
   image:
-  teaser: "/assets/images/ozbargainthumb.png"
+  teaser: "/assets/images/hipagescampaignthumb.png"
 sidebar:
   - title: "Role"
     text: "Information Architect, UX Design"
