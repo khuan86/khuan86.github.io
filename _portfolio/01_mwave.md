@@ -1,32 +1,43 @@
 ---
-title: "mwave"
-excerpt: "Checkout redesign & rebrand"
+title: "Mwave"
+excerpt: "Redesign checkout for one of Australia's leading online PC stores"
 header:
   image:
   teaser: /assets/images/mwavethumb.png
 sidebar:
   - title: "Role"
     text: "UX/UI Design, Product Management"
-  - title: "Brief"
-    text: "I was tasked to optimise the checkout flow for better usability and convert it to a responsive one-page checkout. In the process, give the website an updated look and feel (rebrand)."
+  - title: "tl;dr"
+    text: "Designed a less confusing checkout for new and existing customers. The end result is a clean, focused and fast checkout that is simple to follow and understand whilst maintaining the brand."
   - title: "Tools"
     text: "Balsamiq, Photoshop"
+  - title: "Year"
+    text: "2017"
 gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
+  - url: /assets/images/after-mwave_checkout-welcome.png
+    image_path: assets/images/previews_mwave-chkout-welcome-min.jpg
+    alt: "Welcome page"
+  - url: /assets/images/after-mwave_checkout-newuser-delivery.png
+    image_path: assets/images/previews_mwave-chkout-newusr-del-min.jpg
+    alt: "Page after creating an account for new user"
+  - url: /assets/images/after-mwave_checkout-existinguser-payment.png
+    image_path: /assets/images/previews_mwave-chkout-oldusr-del-min.jpg
+    alt: "Existing user screen after filling in required information"
+  - url: /assets/images/before-mwavecheckout.png
+    image_path: assets/images/previews_mwave-before-min.jpg
+    alt: "Before redesigned"
+  - url: /assets/images/before-mwavecheckout2.png
+    image_path: /assets/images/previews_mwave-before2-min.jpg
+    alt: "Payment page before redesigned"
+  - url: /assets/images/wireframe-mwave-checkout-step3.png
+    image_path: assets/images/previews_mwave-wf-min.jpg
+    alt: "Wireframe"
+  - url: /assets/images/wireframe-mwave-mobile-tablet-view.png
+    image_path: assets/images/previews_mwave-wf-tablet-min.jpg
+    alt: "Wireframe for tablet/mobile view"
 ---
 
 {% include gallery %}
-
-**tl;dr:** Designed a less confusing checkout for new and existing customers. The end result is a clean, focused and fast checkout that is simple to follow and understand whilst maintaining the brand.
-{: .notice}
 
 ## Problem
 
