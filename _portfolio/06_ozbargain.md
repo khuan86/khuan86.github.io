@@ -1,6 +1,6 @@
 ---
-title: "Zanui"
-excerpt: "Product page to checkout prototype"
+title: "Ozbargain"
+excerpt: "A Fun personal side-project to redesign a popular community website"
 header:
   image:
   teaser: "/assets/images/ozbargainthumb.png"
