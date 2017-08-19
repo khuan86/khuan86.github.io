@@ -26,7 +26,7 @@ gallery:
 {% include gallery %}
 
 **tl;dr:** New design has a stronger brand identity that looks welcoming, trustworthy and professional.
-{: notice}
+{: .notice}
 
 Problem
 ------------
