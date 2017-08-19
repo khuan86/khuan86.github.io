@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "mwave"
 excerpt: Checkout redesign & rebrand
 feature-img:
