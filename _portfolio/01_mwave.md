@@ -2,7 +2,7 @@
 title: "mwave"
 excerpt: "Checkout redesign & rebrand"
 header:
-  image: /assets/images/mwavethumb.png
+  image:
   teaser: /assets/images/mwavethumb.png
 sidebar:
   - title: "Role"

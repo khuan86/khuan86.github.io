@@ -13,6 +13,7 @@ header:
 excerpt: "Cat Lover. Gamer. LA Dodgers fan. Geek."
 intro:
   - excerpt:
+---
 
 <div class="grid__wrapper">
   <h2>Projects</h2>

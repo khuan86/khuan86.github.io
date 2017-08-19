@@ -4,15 +4,31 @@ excerpt: "One-page landing page"
 header:
   feature-img:
   teaser: /assets/images/homeloansthumb.png
+sidebar:
+  - title: "Role"
+    text: "UX/UI design, Copywriting, Art Direction"
+  - title: "Brief"
+    text: "Create a one-page landing page (top half design only) from click through banner ads that prompts user action"
+  - title: "Tools"
+    text: "Photoshop"
+gallery:
+  - url: /assets/images/unsplash-gallery-image-1.jpg
+    image_path: assets/images/unsplash-gallery-image-1-th.jpg
+    alt: "placeholder image 1"
+  - url: /assets/images/unsplash-gallery-image-2.jpg
+    image_path: assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+  - url: /assets/images/unsplash-gallery-image-3.jpg
+    image_path: assets/images/unsplash-gallery-image-3-th.jpg
+    alt: "placeholder image 3"
 
 
 ---
 
-> **Role:** UX/UI Design, Copywriting, Art Direction
-> **Brief:** Create a one-page landing page (top half design only) from click through banner ads that prompts user action
-> **Tools:** Photoshop
-
-**tl;dr:** New landing page looks reassuring and easy for users to enter their details in. Utilising emotive and action words to convey that messaging across, backed by the use of relatable imagery in the background.
+<div class="notice">
+  <p>**tl;dr:**  New landing page looks reassuring and easy for users to enter their details in. Utilising emotive and action words to convey that messaging across, backed by the use of relatable imagery in the background.
+  </p>
+</div>
 
 Problem
 ------------
