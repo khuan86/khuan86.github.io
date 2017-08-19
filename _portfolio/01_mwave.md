@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/mwavethumb.png
 sidebar:
   - title: "Role"
-    text: "UX/UI design, product management"
+    text: "UX/UI Design, Product Management"
   - title: "Brief"
     text: "I was tasked to optimise the checkout flow for better usability and convert it to a responsive one-page checkout. In the process, give the website an updated look and feel (rebrand)."
   - title: "Tools"
@@ -23,8 +23,10 @@ gallery:
     alt: "placeholder image 3"
 ---
 
+{% include gallery %}
+
 **tl;dr:** Designed a less confusing checkout for new and existing customers. The end result is a clean, focused and fast checkout that is simple to follow and understand whilst maintaining the brand.
-{: notice}
+{: .notice}
 
 ## Problem
 

@@ -21,9 +21,9 @@ gallery:
   - url: /assets/images/unsplash-gallery-image-3.jpg
     image_path: assets/images/unsplash-gallery-image-3-th.jpg
     alt: "placeholder image 3"
-
-
 ---
+
+{% include gallery %}
 
 **tl;dr:** New design has a stronger brand identity that looks welcoming, trustworthy and professional.
 {: notice}

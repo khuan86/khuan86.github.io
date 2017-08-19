@@ -21,11 +21,12 @@ gallery:
   - url: /assets/images/unsplash-gallery-image-3.jpg
     image_path: assets/images/unsplash-gallery-image-3-th.jpg
     alt: "placeholder image 3"
-
-
 ---
 
+{% include gallery %}
+
 **tl;dr:**  New landing page looks reassuring and easy for users to enter their details in. Utilising emotive and action words to convey that messaging across, backed by the use of relatable imagery in the background.
+{: .notice}
 
 Problem
 ------------

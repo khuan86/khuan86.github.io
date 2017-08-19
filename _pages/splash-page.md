@@ -2,7 +2,7 @@
 title: "UX/UI Designer."
 layout: splash
 permalink: /
-date: 2017-08-18T11:48:41-04:00
+date: 2017-08-19T16:41:12+10:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.2"
