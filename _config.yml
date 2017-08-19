@@ -237,17 +237,17 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: portfolio
     values:
-      layout: splash
-      author_profile: false
+      layout: single
+      author_profile: true
       read_time: true
       comments: # true
       share: true
       related: true
 
 # Collections
-collections:
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
+# collections:
+#   portfolio:
+#     output: true
+#     permalink: /:collection/:path/
