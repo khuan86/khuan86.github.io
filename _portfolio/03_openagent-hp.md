@@ -22,6 +22,9 @@ gallery:
     alt: "Before redesign"
 ---
 
+## Overview
+OpenAgent aims to help everyday Australians make great decisions about the real estate agent they'll entrust with their most important financial asset. It was time they established their prescence on the market with a beautifully designed homepage and strong branding.
+
 {% include gallery %}
 
 ## Problem
