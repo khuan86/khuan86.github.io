@@ -2,7 +2,7 @@
 title: Mwave
 excerpt: Checkout redesign for one of Australia's leading online IT stores
 header:
-  image: null
+  image: /assets/images/previews_mwave-chkout-oldusr-del-min.jpg
   teaser: /assets/images/mwavethumb.png
 sidebar:
   - title: Role
