@@ -43,7 +43,7 @@ The client mostly wanted a more modern look and feel of the website so I kept mo
 
 Icons should be supportive to the text and the old design was too "heavy" and distracting, achieving the opposite effect.
 
-{% include figure image_path="/assets/images/eg-openagent-customicons.png" caption="Created new icons that are in line with the rest of the redesign, keeping it light, fun and modern" &}
+{% include figure image_path="/assets/images/eg-openagent-customicons.png" caption="Created new icons that are in line with the rest of the redesign, keeping it light, fun and modern" %}
 
 The result is easy on the eyes and fully supportive to the copy. I supplied the developers with `.svg` versions of the icons to ensure scale-ability when viewed at any resolution and dpi/ppi.
 
