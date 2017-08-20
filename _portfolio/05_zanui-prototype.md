@@ -11,19 +11,7 @@ sidebar:
     text: "Optimise the product page to checkout user-flow & create a working prototype"
   - title: "Tools"
     text: "Axure"
-gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
 ---
-
-{% include gallery %}
 
 **tl;dr:** Introduced new features to the product page & checkout. Increased conversion rates by 23%. Made a prototype.
 {: .notice}
@@ -47,5 +35,5 @@ We also introduced guest checkout, so a new user does not have to think about cr
 
 I tested my prototype with new employees within the company and they were all impressed by how easy it was get through checkout.  After implementation, we monitored the performance of the new design with the old and were very happy that we increased conversion rates by 23% in such a short amount of time!
 
-<a href="http://nd2u6l.axshare.com/" target="_blank" class=".btn .btn--x-large .btn--info">View the prototype »</a>
+<a href="http://nd2u6l.axshare.com/" target="_blank" class="btn btn--x-large btn--info">View the prototype »</a>
 
