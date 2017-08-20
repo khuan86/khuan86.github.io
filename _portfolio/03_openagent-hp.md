@@ -13,6 +13,9 @@ sidebar:
     text: "Photoshop, Illustrator"
   - title: "Year"
     text: "2015"
+tags:
+  - Illustrator
+  - Photoshop
 gallery:
   - url: /assets/images/after-openagent-homepage.jpg
     image_path: assets/images/previews_openagent-hp-min.jpg
