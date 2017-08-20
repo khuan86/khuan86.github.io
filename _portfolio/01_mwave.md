@@ -64,7 +64,7 @@ The form will validate whether or not the user already has an account and will p
 
 Upon successful login, the user will be presented with delivery information. Existing users should already have their details saved and in most cases, would glance at this section to make sure it's the correct address and move onto the next.
 
-{% include figure image_path="/assets/images/eg-selectaddress.png" caption="Having this displayed like this reduced a [whole page](/assets/images/before-mwavecheckout.png) from the previous design!" &}
+{% include figure image_path="/assets/images/eg-selectaddress.png" caption="Having this displayed like this reduced a [whole page](/assets/images/before-mwavecheckout.png) from the previous design!" %}
 
 New users would have to enter in their address, which would be in the form of an address-lookup, thereby reducing the amount of incorrect addresses being entered. The previous form did not have this and they had many incorrectly delivered parcels, which led to customer dissatisfaction. After entering or selecting their address, they will be presented with delivery methods.
 
