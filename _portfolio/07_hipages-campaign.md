@@ -65,5 +65,5 @@ I was not around for the implementation of this project but I have heard that th
 <ul>
   <li><a href="https://goo.gl/etFdeG" target="_blank">Campaign overview</a></li>
   <li><a href="https://goo.gl/6gujFm" target="_blank">Editing a campaign</a></li>
-  <li><a href="https://goo.gl/m84HUf" target="_blank">An earlier revision</a></li>
+  <li><a href="https://goo.gl/m84HUf" target="_blank">An earlier revision</a></li>
 </ul>
