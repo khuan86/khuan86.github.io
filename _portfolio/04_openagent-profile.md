@@ -11,13 +11,15 @@ sidebar:
     text: "Reorganised a lot of the information so that the content is not overwhelmingly busy."
   - title: "Tools"
     text: "Photoshop"
+  - title: "Year"
+    text: "2015"
 gallery:
-  - url: /assets/images/before-openagent-agentoverview.jpg
-    image_path: assets/images/previews_openagent-agent-before-min.jpg
-    alt: "placeholder image 1"
   - url: /assets/images/after-openagent-agentoverview.png
     image_path: assets/images/previews_openagent-agentprofile-min.jpg
-    alt: "placeholder image 2"
+    alt: "After redesigned"
+  - url: /assets/images/before-openagent-agentoverview.jpg
+    image_path: assets/images/previews_openagent-agent-before-min.jpg
+    alt: "Before redesign"
 ---
 
 {% include gallery %}
