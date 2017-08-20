@@ -6,14 +6,9 @@ header:
   teaser: /assets/images/mwavethumb.png
 sidebar:
   - title: Role
-    image: /assets/images/previews_mwave-chkout-oldusr-del-min.jpg
-    image_alt: "mwave - Checkout redesign for one of Australia's leading online IT stores"
     text: UX/UI Design
   - title: tl;dr
-    text: >-
-      Designed a less confusing checkout for new and existing customers. The end
-      result is a clean, focused and fast checkout that is simple to follow and
-      understand whilst maintaining & strengthening the brand.
+    text:  Designed a less confusing checkout for new and existing customers. The end result is a clean, focused and fast checkout that is simple to follow and understand whilst maintaining & strengthening the brand.
   - title: Tools
     text: 'Balsamiq, Photoshop'
   - title: Year
@@ -43,10 +38,10 @@ gallery:
 published: true
 ---
 
-{% include gallery %}
-
 ## Overview
 Mwave is one of Australia's leading online IT stores. The homepage has had a few redesigns in the past, however the checkout has been largely left the same.
+
+{% include gallery %}
 
 ## Problem
 The old checkout user flow is quite clunky. There were too many steps to achieve a simple goal: purchase the items quickly and painlessly. It was also not responsive, therefore making mobile transactions very frustrating to use.
