@@ -57,5 +57,5 @@ Even though I mostly communicated with the UX Designer via emails, I enjoyed the
 ### Showcase
 <ul>
   <li><a href="https://goo.gl/R685Jb" target="_blank">Before Redesigned</a></li>
-  <li><a href="https://khuan86.github.io/assets/images/after-openagent-homepage.jpg" target="_blank">After Redesign</a></li>
+  <li><a href="https://goo.gl/bfQb7Z" target="_blank">After Redesign</a></li>
 </ul>
