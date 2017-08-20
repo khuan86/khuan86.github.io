@@ -12,11 +12,11 @@ sidebar:
   - title: "Tools"
     text: "Photoshop"
 gallery:
-  - url: /assets/images/previews_homeloans-banner-min.jpg
-    image_path: assets/images/homeloans-banner.png
+  - url: /assets/images/images/homeloans-banner.png
+    image_path: assets/previews_homeloans-banner-min.jpg
     alt: "Banner design"
-  - url: /assets/images/previews_homeloans-landing-min.jpg
-    image_path: assets/images/homeloans-landing.png
+  - url: /assets/images/homeloans-landing.png
+    image_path: assets/images/previews_homeloans-landing-min.jpg
     alt: "Landing page"
 ---
 
@@ -38,13 +38,14 @@ As soon as you land on the page, you will see the form smack bang in the middle;
 
 The visual hierarchy is important in this landing page as you need to meet the business requirements, however this is only half of the equation, as the design aspect is just as important since you need to *convince* them that you are legit and not out to scam them. On the surface it looks quite simple, but you need a good balance between meeting business goals, as well as good design to achieve it!
 
-### Design
+### Approach
 As I needed to design the banner ad as well, I started with this first since this is what the user will see before the landing page. The banner ad must pique their interest, as well as look trustworthy enough for them to engage.
 
 I did not want anything complicated or fancy. We see enough ads these days where we kind of just look past them. I have the advantage that the ad will appear on home loan comparison sites so I knew the audience would already be interested in home loans. Now I just need to convince them to click!
 
 I put myself in the audience's shoes and thought back to when I was looking at home loans. It was daunting and I had no idea where to start. I was so relieved when I found out that that having a broker take care of almost everything (so many paperwork and so many home loan companies to choose from!). Armed with this knowledge, I began searching for stock photos that captured what it looks like to have someone professional help you. These were the main requirements that the picture should capture: calm, stress-free, professional, hassle-free. Looking for the exact photo that you envisioned is time consuming and hard, arguably harder than the design itself :)
 
+### Design
 The client gave me creative freedom for this project. This included copywriting. Having found the perfect picture that captured the *moment* I wanted, I just needed supporting text to accompany the *vision* I wanted the user to have. I came up with `Compare homeloans with a mortgage broker today!` I just needed something short and snappy. The call-to-action button needed to get the user to engage. Everybody loves free right? You'd be surprised that many people do not know that mortgage brokers are free (banks pay them commission). My call-to-action text reads `Get your free consultation now`. 
 
 {% include figure image_path="/assets/images/eg-cta.png" caption="Using the action words: `Get` with `free` achieves two purpose: informing the user that it's a free service and gets them to engage by clicking. Two birds with one stone!" %}
