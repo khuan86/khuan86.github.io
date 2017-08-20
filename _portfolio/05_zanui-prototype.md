@@ -15,6 +15,8 @@ sidebar:
     text: "2012"
 ---
 
+<a href="http://nd2u6l.axshare.com/" target="_blank" class="btn btn--large btn--info">View the prototype »</a>
+
 ## Problem
 The product page needed a complete overhaul as the old one was quite basic in features. There was no way for users to choose a product variation, we simply just had separate product pages for each one eg. Size S, M, L would all be separate product pages. This didn't make for good user experience and is harder to cross-sell items. We also needed a way to increase the average cart value.
 
