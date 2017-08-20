@@ -11,13 +11,15 @@ sidebar:
     text: "New design has a stronger brand identity that looks welcoming, trustworthy, professional and inspiring."
   - title: "Tools"
     text: "Photoshop, Illustrator"
+  - title: "Year"
+    text: "2015"
 gallery:
   - url: /assets/images/after-openagent-homepage.jpg
     image_path: assets/images/previews_openagent-hp-min.jpg
-    alt: "placeholder image 1"
+    alt: "After redesign"
   - url: /assets/images/before-openagent-homepage.jpg
     image_path: assets/images/previews_openagent-hp-before-min.jpg
-    alt: "placeholder image 2"
+    alt: "Before redesign"
 ---
 
 {% include gallery %}
