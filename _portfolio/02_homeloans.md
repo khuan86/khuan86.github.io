@@ -13,7 +13,7 @@ sidebar:
     text: "Photoshop"
 gallery:
   - url: /assets/images/images/homeloans-banner.png
-    image_path: assets/previews_homeloans-banner-min.jpg
+    image_path: assets/images/previews_homeloans-banner-min.jpg
     alt: "Banner design"
   - url: /assets/images/homeloans-landing.png
     image_path: assets/images/previews_homeloans-landing-min.jpg
