@@ -58,9 +58,10 @@ The web design was also not aligned with the rest of their branding eg. differen
 ### UX
 Many users (such as myself) tend to forget they've already made an account with a website. During the checkout process, you want the user to complete their transaction as soon as possible, so instead of having two columns asking the user to pick an option (login or create an account), I consolidated this into one simple field: `Please enter your email address`.
 
-![](/assets/images/eg-welcome.png) {: .align-left}
+{% include figure image_path="/assets/images/eg-welcome.png" caption="This simple change meant that the user didn't have to think if they've created an account before or not, thus making it much easier for them to get through checkout and making the checkout process a pleasant experience right from the start." %}
 
-This simple change meant that the user didn't have to think if they've created an account before or not, thus making it much easier for them to get through checkout and making the checkout process a pleasant experience right from the start. {: .notice--info}
+This simple change meant that the user didn't have to think if they've created an account before or not, thus making it much easier for them to get through checkout and making the checkout process a pleasant experience right from the start.
+{: .notice--info}
 
 The form will validate whether or not the user already has an account and will present them with the proper step (create or enter your password).
 
