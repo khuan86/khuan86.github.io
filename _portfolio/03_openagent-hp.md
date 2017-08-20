@@ -49,12 +49,12 @@ The result is easy on the eyes and fully supportive to the copy. I supplied the 
 
 The client did not want to include the "As seen on" video but still wanted to keep the testimonials. To keep the design as clutter-free as possible, I turned the videos into a non-auto-moving carousal with a quoted text that I felt was engaging and easy/quick to read at a glance.
 
-### Thoughts & Conclusion
+## Thoughts & Conclusion
 I had site performance concerns for the use of the Avant Garde font as it's not a webfont. I also preferred to have kept it consistant across the site using the secondary font (Lato) and it also matched the more modern look of the new site. I understood the reasonings that they had preferred Avant Garde since it was already prominently used in their offline material. As a compromise, I only used one font-weight for Avant Garde which should help with site performance.
 
 Even though I mostly communicated with the UX Designer via emails, I enjoyed the level of collaboration and team work involved. I sent through so many different variations through and after each one we got better and better at sharing the same vision for the site. It was nice having someone to work with to share and bounce ideas around.
 
-### Showcase
+## Showcase
 <ul>
   <li><a href="https://goo.gl/R685Jb" target="_blank">Before Redesigned</a></li>
   <li><a href="https://goo.gl/bfQb7Z" target="_blank">After Redesign</a></li>
