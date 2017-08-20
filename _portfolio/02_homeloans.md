@@ -13,6 +13,8 @@ sidebar:
     text: "Photoshop"
   - title: "Year"
     text: "2016"
+tags:
+  - Photoshop
 gallery:
   - url: /assets/images/homeloans-banner.png
     image_path: assets/images/previews_homeloans-banner-min.jpg
