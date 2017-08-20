@@ -71,17 +71,15 @@ The purple and yellow colours from the mwave logo has been used throughout the r
 
 I've paid extra attention to ensure the colour schemes used here is not jarring for the user. I maintained its brand identity whilst keeping it up-to-date with current design trends. With healthy use of white space, text line-spacing and icons, it helped achieved a well balanced design of functionality and aesthetics.
 
-
-## Before
+**Before**
 * [Selecting your address](/assets/images/before-mwavecheckout.png)
 * [Selecting shipping options](/assets/images/before-mwavecheckout2.png)
 
-## After
+**After**
 * [Welcome screen](/assets/images/after-mwave_checkout-welcome.png)
 * [New user screen after creating an account](/assets/images/after-mwave_checkout-newuser-delivery.png)
 * [Existing user screen after filling in required information](/assets/images/after-mwave_checkout-existinguser-payment.png)
 
-## Wireframes
+**Wireframes**
 * [Mobile/tablet view](/assets/images/wireframe-mwave-mobile-tablet-view.png)
 * [Desktop view](/assets/images/wireframe-mwave-checkout-step3.png)
-{: .notice--info}
