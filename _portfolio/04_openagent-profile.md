@@ -13,6 +13,8 @@ sidebar:
     text: "Photoshop"
   - title: "Year"
     text: "2015"
+tags:
+  - Photoshop
 gallery:
   - url: /assets/images/after-openagent-agentoverview.png
     image_path: assets/images/previews_openagent-agentprofile-min.jpg
