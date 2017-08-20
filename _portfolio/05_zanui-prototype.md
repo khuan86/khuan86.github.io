@@ -14,7 +14,7 @@ sidebar:
   - title: "Year"
     text: "2012"
 ---
-
+<br>
 <a href="http://nd2u6l.axshare.com/" target="_blank" class="btn btn--large btn--info">View the prototype »</a>
 
 ## Problem
