@@ -52,6 +52,6 @@ With the help of white space, the content overall looks more organised and coher
 
 ## Showcase
 <ul>
-  <li><a href="https://goo.gl/GMPXwG" target="_blank">Before redesign</a></li>
-  <li><a href="https://goo.gl/1USo2A" target="_blank">After redesigned</a></li>
+  <li><a href="https://goo.gl/GMPXwG" target="_blank">Before</a></li>
+  <li><a href="https://goo.gl/1USo2A" target="_blank">After</a></li>
 </ul>
