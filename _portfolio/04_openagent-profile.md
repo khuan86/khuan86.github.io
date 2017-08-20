@@ -37,12 +37,13 @@ It is a missed opportunity by not having any call-to-action buttons to contact t
 ## Solution
 It was initially briefed to just redesign the page to keep it inline with the new homepage with a couple of additions, however after redesigning it, I felt that I could do better and re-do the whole page. I sent them both versions and they preferred the one I came up with :)
 
-My thoughts were, being an agent profile, you want the essential information appear at all times (as with the original). However having it be kept at the top took up too much valuable space for everything else.
+My thoughts were, being an agent profile, you want the essential information appear at all times (as with the original). However having it be kept at the top took up too much valuable space for everything else. By placing the agent's picture on the left where it can always be seen, we can have important information with call to action buttons there at all times.
 
-![image-left](/assets/images/eg-openagent-ctas.png){: .align-left}
-Now the agent's picture can be displayed on the left where it can always be seen, as well as their name and easy access call-to-actions.
+{% include figure image_path="/assets/images/eg-openagent-tabs.png" caption="Moving the tabs higher up and on the right column, gave it more prominence as well as helping make sense of the content." %}
 
-{% include figure image_path="/assets/images/eg-openagent-tabs.png" caption="Moving the tabs higher up, gave it more prominence as well as helping make sense of the content." %}
+I was also not a huge fan of the previous design's review icons. I opted for something that everyone understands.
+
+{% include figure image_path="/assets/images/eg-openagent-stars.png" caption="Using universally understood icons is easier for users to understand" %}
 
 ## Thoughts & Conclusion
 The client was pleased with my version and I'm glad I stuck with my gut and re-did the design even though it was initially briefed for just a simple redesign based on the old one.
