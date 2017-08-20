@@ -1,12 +1,12 @@
 ---
 title: Mwave
-excerpt: Redesign checkout for one of Australia's leading online PC stores
+excerpt: Checkout redesign for one of Australia's leading online IT stores
 header:
   image: null
   teaser: /assets/images/mwavethumb.png
 sidebar:
   - title: Role
-    text: 'UX/UI Design, Product Management'
+    text: 'UX/UI Design'
   - title: tl;dr
     text: >-
       Designed a less confusing checkout for new and existing customers. The end
@@ -56,7 +56,9 @@ The web design was also not aligned with the rest of their branding eg. differen
 ## Solution
 
 ### UX
-Many users (such as myself) tend to forget they've already made an account with a website. During the checkout process, you want the user to complete their transaction as soon as possible, so instead of having two columns asking the user to pick an option (login or create an account), I consolidated this into one simple field: `Please enter your email address`. This simple change meant that the user didn't have to think if they've created an account before or not, thus making it much easier for them to get through checkout and making the checkout process a pleasant experience right from the start. The form will validate whether or not the user already has an account and will present them with the proper step (create or enter your password).
+Many users (such as myself) tend to forget they've already made an account with a website. During the checkout process, you want the user to complete their transaction as soon as possible, so instead of having two columns asking the user to pick an option (login or create an account), I consolidated this into one simple field: `Please enter your email address`.
+
+This simple change meant that the user didn't have to think if they've created an account before or not, thus making it much easier for them to get through checkout and making the checkout process a pleasant experience right from the start. The form will validate whether or not the user already has an account and will present them with the proper step (create or enter your password).
 
 Upon successful login, the user will be presented with delivery information. Existing users should already have their details saved and in most cases, would glance at this section to make sure it's the correct address and move onto the next. New users would have to enter in their address, which would be in the form of an address-lookup, thereby reducing the amount of incorrect addresses being entered. The previous form did not have this and they had many incorrectly delivered parcels, which led to customer dissatisfaction. After entering or selecting their address, they will be presented with delivery methods.
 
