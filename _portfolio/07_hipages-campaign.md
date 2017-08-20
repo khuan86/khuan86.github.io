@@ -17,9 +17,15 @@ gallery:
   - url: /assets/images/campaignmanager.png
     image_path: /assets/images/previews_hipages-campaignmanager-min.jpg
     alt: "Campaign manager overview page"
+    caption: "Campaign manager overview page"
   - url: /assets/images/edit-campaign.png
     image_path: assets/images/previews_hipages-edit-campaign-min.jpg
     alt: "Editing a campaign"
+    caption: "Editing a campaign"
+  - url: /assets/images/oldversion-hipages-campaignmanager.jpg
+    image_path: assets/images/previews_hipages-old-campaignmanager.jpg
+    alt: "One of the earlier revisions"
+    caption: "One of the earlier revisions"
 ---
 
 ## Overview
@@ -57,3 +63,10 @@ I had a lot of fun with this project, and one that I'm extremely proud of. I adm
 We tested this quick prototype with users that had little knowledge of campaign ads. They were able to easily create/edit a campaign and understood the whole process.
 
 I was not around for the implementation of this project but I have heard that they have had great results with it and the account managers were begging the developers to implement the same in their back-end :D
+
+## Showcase
+<ul>
+  <li><a href="https://goo.gl/etFdeG" target="_blank">Campaign overview</a></li>
+  <li><a href="https://goo.gl/6gujFm" target="_blank">Editing a campaign</a></li>
+  <li><a href="https://goo.gl/m84HUf" target="_blank">One of the earlier revisions</a></li>
+</ul>
