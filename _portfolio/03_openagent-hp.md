@@ -55,5 +55,7 @@ I had site performance concerns for the use of the Avant Garde font as it's not 
 Even though I mostly communicated with the UX Designer via emails, I enjoyed the level of collaboration and team work involved. I sent through so many different variations through and after each one we got better and better at sharing the same vision for the site. It was nice having someone to work with to share and bounce ideas around.
 
 ### Showcase
-* [OpenAgent Homepage Before](/assets/images/before-openagent-homepage.jpg)
-* [OpenAgent Homepage After](/assets/images/after-openagent-homepage.jpg)
+<ul>
+  <li><a href="/assets/images/before-openagent-homepage.jpg" target="_blank" />Before Redesigned/a></li>
+  <li><a href="/assets/images/after-openagent-homepage.jpg" target="_blank" />After Redesign</a></li>
+</ul>
