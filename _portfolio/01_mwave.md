@@ -1,47 +1,53 @@
 ---
-title: "Mwave"
-excerpt: "Redesign checkout for one of Australia's leading online PC stores"
+title: Mwave
+excerpt: Redesign checkout for one of Australia's leading online PC stores
 header:
-  image:
+  image: null
   teaser: /assets/images/mwavethumb.png
 sidebar:
-  - title: "Role"
-    text: "UX/UI Design, Product Management"
-  - title: "tl;dr"
-    text: "Designed a less confusing checkout for new and existing customers. The end result is a clean, focused and fast checkout that is simple to follow and understand whilst maintaining & strengthening the brand."
-  - title: "Tools"
-    text: "Balsamiq, Photoshop"
-  - title: "Year"
-    text: "2017"
+  - title: Role
+    text: 'UX/UI Design, Product Management'
+  - title: tl;dr
+    text: >-
+      Designed a less confusing checkout for new and existing customers. The end
+      result is a clean, focused and fast checkout that is simple to follow and
+      understand whilst maintaining & strengthening the brand.
+  - title: Tools
+    text: 'Balsamiq, Photoshop'
+  - title: Year
+    text: '2017'
 gallery:
   - url: /assets/images/after-mwave_checkout-welcome.png
     image_path: assets/images/previews_mwave-chkout-welcome-min.jpg
-    alt: "Welcome page"
+    alt: Welcome page
   - url: /assets/images/after-mwave_checkout-newuser-delivery.png
     image_path: assets/images/previews_mwave-chkout-newusr-del-min.jpg
-    alt: "Page after creating an account for new user"
+    alt: Page after creating an account for new user
   - url: /assets/images/after-mwave_checkout-existinguser-payment.png
     image_path: /assets/images/previews_mwave-chkout-oldusr-del-min.jpg
-    alt: "Existing user screen after filling in required information"
+    alt: Existing user screen after filling in required information
   - url: /assets/images/before-mwavecheckout.png
     image_path: assets/images/previews_mwave-before-min.jpg
-    alt: "Before redesigned"
+    alt: Before redesigned
   - url: /assets/images/before-mwavecheckout2.png
     image_path: /assets/images/previews_mwave-before2-min.jpg
-    alt: "Payment page before redesigned"
+    alt: Payment page before redesigned
   - url: /assets/images/wireframe-mwave-checkout-step3.png
     image_path: assets/images/previews_mwave-wf-min.jpg
-    alt: "Wireframe"
+    alt: Wireframe
   - url: /assets/images/wireframe-mwave-mobile-tablet-view.png
     image_path: assets/images/previews_mwave-wf-tablet-min.jpg
-    alt: "Wireframe for tablet/mobile view"
+    alt: Wireframe for tablet/mobile view
+published: true
 ---
 
 {% include gallery %}
 
-## Problem
+## Overview
+Mwave is one of Australia's leading online IT stores. The homepage has had a few redesigns in the past, however the checkout has been largely left the same.
 
-The old checkout flow is quite clunky and all over the place. There were too many steps to achieve a simple goal: purchase the items quickly and painlessly. It was also not responsive, therefore making mobile transactions very frustrating to use.
+## Problem
+The old checkout user flow is quite clunky. There were too many steps to achieve a simple goal: purchase the items quickly and painlessly. It was also not responsive, therefore making mobile transactions very frustrating to use.
 
 The previous design was a copy of Amazon's checkout. While it may have worked at the time as a quick fix, over time with additions to the checkout such as mwave dollars (store credit) and various delivery options, the checkout became too cumbersome to navigate and confusing for newer users.
 
@@ -65,36 +71,17 @@ The purple and yellow colours from the mwave logo has been used throughout the r
 
 I've paid extra attention to ensure the colour schemes used here is not jarring for the user. I maintained its brand identity whilst keeping it up-to-date with current design trends. With healthy use of white space, text line-spacing and icons, it helped achieved a well balanced design of functionality and aesthetics.
 
+
 ## Before
-
-![mwave checkout before](/assets/images/before-mwavecheckout.png "Checkout before")
-
-----------
-
-![mwave checkout before](/assets/images/before-mwavecheckout2.png "Checkout before")
+* [Selecting your address](/assets/images/before-mwavecheckout.png)
+* [Selecting shipping options](/assets/images/before-mwavecheckout2.png)
 
 ## After
-
-Welcome screen
-![Welcome screen](/assets/images/after-mwave_checkout-welcome.png "Welcome screen")
-[(View original size)](/assets/images/after-mwave_checkout-welcome.png)
-
-----------
-
-New user screen after creating an account
-![New user screen after creating an account](/assets/images/after-mwave_checkout-newuser-delivery.png "New user screen after creating an account")
-[(View original size)](/assets/images/after-mwave_checkout-newuser-delivery.png)
-
-----------
-
-Existing user screen after filling in required information
-![Existing user screen after filling in required information](/assets/images/after-mwave_checkout-existinguser-payment.png "Existing user screen after filling in required information")
-[(View original size)](/assets/images/after-mwave_checkout-existinguser-payment.png)
+* [Welcome screen](/assets/images/after-mwave_checkout-welcome.png)
+* [New user screen after creating an account](/assets/images/after-mwave_checkout-newuser-delivery.png)
+* [Existing user screen after filling in required information](/assets/images/after-mwave_checkout-existinguser-payment.png)
 
 ## Wireframes
-
-![Checkout mobile wireframe](/assets/images/wireframe-mwave-mobile-tablet-view.png "Checkout mobile wireframe")
-
-----------
-
-![Checkout wireframe](/assets/images/wireframe-mwave-checkout-step3.png "Checkout wireframe")
+* [Mobile/tablet view](/assets/images/wireframe-mwave-mobile-tablet-view.png)
+* [Desktop view](/assets/images/wireframe-mwave-checkout-step3.png)
+{: .notice--info}
