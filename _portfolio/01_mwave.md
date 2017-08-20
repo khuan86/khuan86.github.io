@@ -83,14 +83,20 @@ I've paid extra attention to ensure the colour schemes used here is not jarring 
 
 ### Showcase
 **Before**
-* [Selecting your address](/assets/images/before-mwavecheckout.png)
-* [Selecting shipping options](/assets/images/before-mwavecheckout2.png)
+<ul>
+  <li><a href="https://goo.gl/BRZozz" target="_blank">Selecting your address</a></li>
+  <li><a href="https://goo.gl/AE8QPs" target="_blank">Selecting shipping options</a></li>
+</ul>
 
 **After**
-* [Welcome screen](/assets/images/after-mwave_checkout-welcome.png)
-* [New user screen after creating an account](/assets/images/after-mwave_checkout-newuser-delivery.png)
-* [Existing user screen after filling in required information](/assets/images/after-mwave_checkout-existinguser-payment.png)
+<ul>
+  <li><a href="https://goo.gl/HRsXNp" target="_blank">Welcome screen</a></li>
+  <li><a href="https://goo.gl/TGMwCK" target="_blank">New user screen after creating an account</a></li>
+  <li><a href="https://goo.gl/8HESzT" target="_blank">Existing user screen after filling in required information</a></li>
+</ul>
 
 **Wireframes**
-* [Mobile/tablet view](/assets/images/wireframe-mwave-mobile-tablet-view.png)
-* [Desktop view](/assets/images/wireframe-mwave-checkout-step3.png)
+<ul>
+  <li><a href="https://goo.gl/hLUkDM" target="_blank">Mobile/tablet view</a></li>
+  <li><a href="https://goo.gl/AjbENK" target="_blank">Desktop view</a></li>
+</ul>
