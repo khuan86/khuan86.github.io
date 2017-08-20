@@ -13,6 +13,9 @@ sidebar:
     text: 'Balsamiq, Photoshop'
   - title: Year
     text: '2017'
+tags:
+  - Balsamiq
+  - Photoshop
 gallery:
   - url: /assets/images/after-mwave_checkout-welcome.png
     image_path: assets/images/previews_mwave-chkout-welcome-min.jpg
