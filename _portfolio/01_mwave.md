@@ -60,20 +60,15 @@ Many users (such as myself) tend to forget they've already made an account with 
 
 {% include figure image_path="/assets/images/eg-welcome.png" caption="This simple change meant that the user didn't have to think if they've created an account before or not, thus making it much easier for them to get through checkout and making the checkout process a pleasant experience right from the start." %}
 
-This simple change meant that the user didn't have to think if they've created an account before or not, thus making it much easier for them to get through checkout and making the checkout process a pleasant experience right from the start.
-{: .notice--info}
-
 The form will validate whether or not the user already has an account and will present them with the proper step (create or enter your password).
 
 Upon successful login, the user will be presented with delivery information. Existing users should already have their details saved and in most cases, would glance at this section to make sure it's the correct address and move onto the next.
 
-![](/assets/images/eg-selectaddress.png)
-Having this displayed like this reduced a [whole page](/assets/images/before-mwavecheckout.png) from the previous design! {: .notice--info}
+{% include figure image_path="/assets/images/eg-selectaddress.png" caption="Having this displayed like this reduced a [whole page](/assets/images/before-mwavecheckout.png) from the previous design!" &}
 
 New users would have to enter in their address, which would be in the form of an address-lookup, thereby reducing the amount of incorrect addresses being entered. The previous form did not have this and they had many incorrectly delivered parcels, which led to customer dissatisfaction. After entering or selecting their address, they will be presented with delivery methods.
 
-![](/assets/images/eg-enteraddress.png)
-Using predictive address look-up search reduces a lot of form fields as well as reducing invalid addresses {: .notice--info}
+{% include figure image_path="/assets/images/eg-enteraddress.png" caption="Using predictive address look-up search reduces a lot of form fields as well as reducing invalid addresses." %}
 
 The payment method section has been cleaned up to be clearer and more trustworthy. The only difference is that the mwave dollars (credit) will only display if the user has any on their account. It will not display if the user does not have any. If they choose to use their credit, it will automatically calculate and update how much they have left and display the updated totals.
 
