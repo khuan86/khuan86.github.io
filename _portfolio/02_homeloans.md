@@ -53,7 +53,7 @@ Half of the battle is won once the user is on the landing-page. Now to convince 
 
 Here I wanted the user to feel that the process of getting a consultation with a broker to be as easy as possible. Again, I wanted to the user to envision themselves to be stress-free. I found an image of a man talking on the phone looking quite relaxed and happy. The image I found is exactly the image I want them to envision themselves in. Having the image take up the full width of the browser serves as a constant reminder
 
-{% include figure image_path="/assets/images/eg-kickback.png" caption="Supporting text for the relaxed man in the background %}
+{% include figure image_path="/assets/images/eg-kickback.png" caption="Supporting text for the relaxed man in the background" %}
 
 The next line reaffirms the action I want the user to take, as well as inform them of the expected outcome: `Simply enter your details and we will contact you`.
 
