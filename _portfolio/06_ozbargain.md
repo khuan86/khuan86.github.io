@@ -48,3 +48,10 @@ The rest of the page just needed some cleaning up. I maintained the colours used
 
 ## Thoughts & Conclusion
 Overall I am quite pleased with the results. I didn't want to spend too long on it so I only made the main top half of the site. I sent it to the site owner, Scotty as a form of a fan mail and he replied to me informing he liked it and would steal some ideas! I'd like to think that I had a part in some of the new site elements & features today ;)
+
+## Showcase
+<ul>
+  <li><a href="https://goo.gl/3bxbAC" target="_blank">Before redesign</a></li>
+  <li><a href="https://goo.gl/4CgJtG" target="_blank">After redesigned</a></li>
+  <li><a href="https://goo.gl/n3LsKp" target="_blank">Wireframe</a></li>
+</ul>
