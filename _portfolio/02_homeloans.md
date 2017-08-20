@@ -33,7 +33,7 @@ Most landing pages you find on the internet look untrustworthy to provide them w
 
 So the task itself seemed quite simple, but to get there requires good design-thinking to convince users that you *are* trustworthy!
 
-### Approach
+## Approach
 I started with the banner first, since this is what the user will see before the landing page. The banner must pique their interest, as well as look trustworthy enough for them to engage.
 
 I put myself in the audience's shoes and thought back to when I was looking at home loans. I remembered that it was quite overhwelming, but I also had a broker help me. Knowing this, I immediately knew how I wanted the look and feel to be like. I began searching for stock photos that represented having a professional assist you for the banner. For the website, I wanted to have a similar correlation but not exactly the same as I wanted the messanging to be a little more convincing, so I needed an image that supported that. I wasn't exactly sure what that messanging would be, but I knew I would figure it out as soon as I found the right image.
