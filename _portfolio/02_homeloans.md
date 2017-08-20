@@ -1,6 +1,6 @@
 ---
 title: "Homeloans"
-excerpt: "One-page landing page"
+excerpt: "Designed a new landing page for lead generation"
 header:
   feature-img:
   teaser: /assets/images/homeloansthumb.png
@@ -61,5 +61,7 @@ The next line reaffirms the action I want the user to take, as well as inform th
 As for colours, blue is known psychologically to be a trustworthy colour. I used this in the call-to-action button. It has a calming, trusting and non-disruptive feel to it. The background images in both the banner ad and landing page were slightly blurred and had a subtle colour overlay so as to not distract but also be there to support the goal. The homeloans logo is prominently in the top-middle and informational links is easy to find. Psychologically, using images of real people, rather than cartoons or drawings gives the image of trust.
 
 ### Showcase
-* [Banner Ad](/assets/images/homeloans-banner.png)
-* [Landing Page](/assets/images/homeloans-landing.png)
+<ul>
+  <li><a href="https://goo.gl/5VnMYP" target="_blank">Banner ad</a></li>
+  <li><a href="https://goo.gl/vEEg1U" target="_blank">Landing page</a></li>
+</ul>
