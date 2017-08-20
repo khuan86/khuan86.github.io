@@ -5,9 +5,9 @@ header:
   image: 
   teaser: /assets/images/mwavethumb.png
 sidebar:
-  image: /assets/images/previews_mwave-chkout-oldusr-del-min.jpg
-  image_alt: "mwave - Checkout redesign for one of Australia's leading online IT stores"
   - title: Role
+    image: /assets/images/previews_mwave-chkout-oldusr-del-min.jpg
+    image_alt: "mwave - Checkout redesign for one of Australia's leading online IT stores"
     text: UX/UI Design
   - title: tl;dr
     text: >-
