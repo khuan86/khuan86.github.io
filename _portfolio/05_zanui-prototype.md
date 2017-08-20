@@ -8,13 +8,16 @@ sidebar:
   - title: "Role"
     text: "UX/UI Design"
   - title: "tl;dr"
-    text: "Introduced new features & improvements to the product page & checkout. Increased conversion rates by 23%. Made a prototype and used it for user-testing"
+    text: "Introduced new features & improvements to the product page & checkout. **Increased conversion rates by 23%**. Made a prototype and used it for user-testing"
   - title: "Tools"
     text: "Axure"
   - title: "Year"
     text: "2012"
 ---
-<br>
+
+## Overview
+Zanui is a start-up wanting to make its mark on the Australian homewares eCommerce sector. When I joined it was only in business for a month. They needed to overhaul their entire site for better usability that will lead to higher conversion rates.
+
 <a href="http://nd2u6l.axshare.com/" target="_blank" class="btn btn--large btn--info">View the prototype »</a>
 
 ## Problem
@@ -22,9 +25,10 @@ The product page needed a complete overhaul as the old one was quite basic in fe
 
 The product page to checkout user-flow was serviceable at the time, however the checkout page needed a lot of work since it had too many steps. The product manager wanted a one-page, three column checkout. The challenge was to incorporate as much information as you can, including customer login in such a small amount of space (for each column).
 
-## Solution
+## Approach
 I used Axure for this project as the program is very powerful in creating high-fidelity wireframes, perfect for rich prototypes with conditional logic needed for a complex checkout. Many features and interactions needed to be shown in order for the developers and stakeholders to understand. It was also handy to have as I wanted to conduct some user-testing with it.
 
+## Solution
 For the product page, I reorganised the visual hierarchy so that important information is "above the fold". Then immediately under it, a cross-sell module to help increase the average cart value.
 
 For the checkout page, I needed to think of a creative solution to handle customer login for new and existing users. I came up with a tabbed solution that defaults to New Customer (if they're not logged in already). I've found that many people including myself, start typing without reading the form field. Using my tabbed solution, I needed to ensure that existing users who entered their email address in the New User tab would not waste time going through the checkout process, only to have it error at the end (as the system will identify that they've already had an account). I came up with a way where if the user starts typing their email address, the system will try to check with its database if that user already has an account or not. If so, it will automatically prompt the user to enter their password. I made sure this was possible by discussing it with the developers.
@@ -37,4 +41,3 @@ I tested my prototype with new employees within the company and they were all im
 It was hard work as we had really tight deadlines, however with the help of the prototype, each developer could cross reference it to ensure each step and functionality was as intended. It was time well spent in creating the prototype as it served many uses.
 
 <a href="http://nd2u6l.axshare.com/" target="_blank" class="btn btn--large btn--info">View the prototype »</a>
-
