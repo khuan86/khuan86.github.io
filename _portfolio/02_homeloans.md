@@ -11,6 +11,8 @@ sidebar:
     text: "New landing page looks reassuring and easy for users to enter their details in. Utilising emotive and action words to convey that messaging across, backed by the use of relatable imagery in the background."
   - title: "Tools"
     text: "Photoshop"
+  - title: "Year"
+    text: "2016"
 gallery:
   - url: /assets/images/homeloans-banner.png
     image_path: assets/images/previews_homeloans-banner-min.jpg
