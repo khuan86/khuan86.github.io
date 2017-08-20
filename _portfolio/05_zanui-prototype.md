@@ -33,6 +33,8 @@ For the product page, I reorganised the visual hierarchy so that important infor
 
 For the checkout page, I needed to think of a creative solution to handle customer login for new and existing users. I came up with a tabbed solution that defaults to New Customer (if they're not logged in already). I've found that many people including myself, start typing without reading the form field. Using my tabbed solution, I needed to ensure that existing users who entered their email address in the New User tab would not waste time going through the checkout process, only to have it error at the end (as the system will identify that they've already had an account). I came up with a way where if the user starts typing their email address, the system will try to check with its database if that user already has an account or not. If so, it will automatically prompt the user to enter their password. I made sure this was possible by discussing it with the developers.
 
+{% include figure image_path="/assets/images/eg-zanui-email.png" caption="This was pretty revolutionary back then!" %}
+
 We also introduced guest checkout, so a new user does not have to think about creating a password when they purchase from us the first time. It will ask the user if they want to create a account at the end, after payment is made and the order is successful. It will be optional to create an account.
 
 ## Conclusion & Thoughts
