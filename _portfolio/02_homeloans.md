@@ -22,30 +22,33 @@ gallery:
     alt: "Landing page"
 ---
 
+## Overview
+Homeloans is a loan comparison website for Australian home buyers. They focus their marketing spend on SEM (Search Engine Marketing)
+as it attracts people who are actively looking for home loan comparison. In addition to their existing products, Homeloans want to start offering their customers a free phone consultation. The phone consultation is to asses the end user’s needs and advise of the best home loan option according to those needs.
+
 {% include gallery %}
 
 ## Problem
-The goal of this landing page was quite simple: gather as much data as possible. However most landing pages you find on the internet look untrustworthy to provide them with your information. Many people are not willing to give out their information so freely, especially when it requires your phone number. People are becoming more and more aware of phone scams and are increasingly weary of providing such details online (as you should be!)
+Most landing pages you find on the internet look untrustworthy to provide them with your information. Many people are not willing to give out their information so freely, especially when it requires your phone number. People are becoming more and more aware of phone scams and are increasingly weary of providing such details online (as you should be!)
 
 So the task itself seemed quite simple, but to get there requires good design-thinking to convince users that you *are* trustworthy!
 
-## Solution
+### Approach
+I started with the banner first, since this is what the user will see before the landing page. The banner must pique their interest, as well as look trustworthy enough for them to engage.
 
+I put myself in the audience's shoes and thought back to when I was looking at home loans. I remembered that it was quite overhwelming, but I also had a broker help me. Knowing this, I immediately knew how I wanted the look and feel to be like. I began searching for stock photos that represented having a professional assist you for the banner. For the website, I wanted to have a similar correlation but not exactly the same as I wanted the messanging to be a little more convincing, so I needed an image that supported that. I wasn't exactly sure what that messanging would be, but I knew I would figure it out as soon as I found the right image.
+
+I did not want anything complicated or fancy. We see enough banners these days where we kind of just look past them. I already have the advantage that the banner will appear on home loan comparison sites so I knew the audience would already be interested. I just needed to convince them to click!
+
+## Solution
 ### UX
-As mentioned, the landing page's main goal was to gather data from potential customers. I did not want to have too many distractions from that goal. The visual hierarchy of the page must be straight the point where the user knows exactly what they needed to do without *thinking* too much about it.
+The visual hierarchy of the landing page must be straight the point where the user knows exactly what they needed to do without *thinking* too much about it.
 
 As soon as you land on the page, you will see the form smack bang in the middle; no distractions. If the user wanted to learn more, they can either scroll down or click on the links above (which serves the same purpose since it is all on one page). They were mainly there to support the trust I wanted to build. Information should be easy to find, else you risk making the page look "fishy". The idea was to have this "top-section" of the webpage fill the entire browser.
 
 {% include figure image_path="/assets/images/eg-contactus.png" caption="Having `Contact Us` and `Our Company` on the the top right reassures the user that the homeloans.com.au brand is real and if they prefer, contact them instead of being contacted." %}
 
 The visual hierarchy is important in this landing page as you need to meet the business requirements, however this is only half of the equation, as the design aspect is just as important since you need to *convince* them that you are legit and not out to scam them. On the surface it looks quite simple, but you need a good balance between meeting business goals, as well as good design to achieve it!
-
-### Approach
-As I needed to design the banner ad as well, I started with this first since this is what the user will see before the landing page. The banner ad must pique their interest, as well as look trustworthy enough for them to engage.
-
-I did not want anything complicated or fancy. We see enough ads these days where we kind of just look past them. I have the advantage that the ad will appear on home loan comparison sites so I knew the audience would already be interested in home loans. Now I just need to convince them to click!
-
-I put myself in the audience's shoes and thought back to when I was looking at home loans. It was daunting and I had no idea where to start. I was so relieved when I found out that that having a broker take care of almost everything (so many paperwork and so many home loan companies to choose from!). Armed with this knowledge, I began searching for stock photos that captured what it looks like to have someone professional help you. These were the main requirements that the picture should capture: calm, stress-free, professional, hassle-free. Looking for the exact photo that you envisioned is time consuming and hard, arguably harder than the design itself :)
 
 ### Design
 The client gave me creative freedom for this project. This included copywriting. Having found the perfect picture that captured the *moment* I wanted, I just needed supporting text to accompany the *vision* I wanted the user to have. I came up with `Compare homeloans with a mortgage broker today!` I just needed something short and snappy. The call-to-action button needed to get the user to engage. Everybody loves free right? You'd be surprised that many people do not know that mortgage brokers are free (banks pay them commission). My call-to-action text reads `Get your free consultation now`. 
