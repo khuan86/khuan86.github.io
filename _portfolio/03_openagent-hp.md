@@ -20,7 +20,7 @@ gallery:
     alt: "placeholder image 2"
 ---
 
-{% include gallery %}
+<!-- {% include gallery %} -->
 
 ## Problem
 When first founded, design was last on the list and the website was mainly there to serve a purpose: lead generation. They were growing rapidly and realised they needed a stronger brand identity.
@@ -56,6 +56,6 @@ Even though I mostly communicated with the UX Designer via emails, I enjoyed the
 
 ### Showcase
 <ul>
-  <li><a href="https://khuan86.github.io/assets/images/before-openagent-homepage_a.jpg" target="_blank">Before Redesigned</a></li>
+  <li><a href="https://khuan86.github.io/assets/images/before-openagent-homepage.jpg" target="_blank">Before Redesigned</a></li>
   <li><a href="https://khuan86.github.io/assets/images/after-openagent-homepage.jpg" target="_blank">After Redesign</a></li>
 </ul>
