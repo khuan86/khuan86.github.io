@@ -34,7 +34,7 @@ As mentioned, the landing page's main goal was to gather data from potential cus
 
 As soon as you land on the page, you will see the form smack bang in the middle; no distractions. If the user wanted to learn more, they can either scroll down or click on the links above (which serves the same purpose since it is all on one page). They were mainly there to support the trust I wanted to build. Information should be easy to find, else you risk making the page look "fishy". The idea was to have this "top-section" of the webpage fill the entire browser.
 
-{% include figure image_path="/assets/images/eg-contactus.png" caption="Having `Contact Us` and `Our Company` on the the top right reassures the user that the homeloans.com.au brand is real and if they prefer, contact them instead of being contacted." &}
+{% include figure image_path="/assets/images/eg-contactus.png" caption="Having `Contact Us` and `Our Company` on the the top right reassures the user that the homeloans.com.au brand is real and if they prefer, contact them instead of being contacted." %}
 
 The visual hierarchy is important in this landing page as you need to meet the business requirements, however this is only half of the equation, as the design aspect is just as important since you need to *convince* them that you are legit and not out to scam them. On the surface it looks quite simple, but you need a good balance between meeting business goals, as well as good design to achieve it!
 
@@ -47,13 +47,13 @@ I put myself in the audience's shoes and thought back to when I was looking at h
 
 The client gave me creative freedom for this project. This included copywriting. Having found the perfect picture that captured the *moment* I wanted, I just needed supporting text to accompany the *vision* I wanted the user to have. I came up with `Compare homeloans with a mortgage broker today!` I just needed something short and snappy. The call-to-action button needed to get the user to engage. Everybody loves free right? You'd be surprised that many people do not know that mortgage brokers are free (banks pay them commission). My call-to-action text reads `Get your free consultation now`. 
 
-{% include figure image_path="/assets/images/eg-cta.png" caption="Using the action words: `Get` with `free` achieves two purpose: informing the user that it's a free service and gets them to engage by clicking. Two birds with one stone!" &}
+{% include figure image_path="/assets/images/eg-cta.png" caption="Using the action words: `Get` with `free` achieves two purpose: informing the user that it's a free service and gets them to engage by clicking. Two birds with one stone!" %}
 
 Half of the battle is won once the user is on the landing-page. Now to convince them to part with their information. This page is where I needed to *really* convince them!
 
 Here I wanted the user to feel that the process of getting a consultation with a broker to be as easy as possible. Again, I wanted to the user to envision themselves to be stress-free. I found an image of a man talking on the phone looking quite relaxed and happy. The image I found is exactly the image I want them to envision themselves in. Having the image take up the full width of the browser serves as a constant reminder
 
-{% include figure image_path="/assets/images/eg-kickback.png" caption="Supporting text for the relaxed man in the background &}
+{% include figure image_path="/assets/images/eg-kickback.png" caption="Supporting text for the relaxed man in the background %}
 
 The next line reaffirms the action I want the user to take, as well as inform them of the expected outcome: `Simply enter your details and we will contact you`.
 
