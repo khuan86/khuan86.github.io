@@ -39,11 +39,10 @@ It was initially briefed to just redesign the page to keep it inline with the ne
 
 My thoughts were, being an agent profile, you want the essential information appear at all times (as with the original). However having it be kept at the top took up too much valuable space for everything else.
 
-{% include figure image_path="/assets/images/eg-openagent-tabs.png" caption="Moving the tabs higher up, gave it more prominence as well as helping make sense of the content." %}
-
-With this, the agent's picture can be displayed on the left where it can always be seen, as well as their name and easy access call-to-actions.
-
 ![image-left](/assets/images/eg-openagent-ctas.png){: .align-left}
+Now the agent's picture can be displayed on the left where it can always be seen, as well as their name and easy access call-to-actions.
+
+{% include figure image_path="/assets/images/eg-openagent-tabs.png" caption="Moving the tabs higher up, gave it more prominence as well as helping make sense of the content." %}
 
 ## Thoughts & Conclusion
 The client was pleased with my version and I'm glad I stuck with my gut and re-did the design even though it was initially briefed for just a simple redesign based on the old one.
