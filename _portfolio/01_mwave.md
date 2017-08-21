@@ -71,8 +71,6 @@ The payment method section has been cleaned up to be clearer and more trustworth
 
 Once everything is filled in and has been validated by the system, the `Place Order Now` button will become active and the user may place their order.
 
-Basically, the goal of this checkout is to have the user presented with choices as they go down the list and only presenting choices relevant to them. This cuts down a lot of unnecessary fields. For existing users, the average time to checkout were several minutes. With the new checkout, I tested it to be on average around 40 seconds.
-
 ### Design
 The purple and yellow colours from the mwave logo has been used throughout the rebrand. The previous design did not have much of a brand personality. This was because they did not make heavy use of colour. I kept in mind throughout the rebrand that the majority of the users of mwave are 20-40 year old males. I did not want to make the website look too *feminine*. Bearing in mind the purple and yellow colours are not what your average male would consider their favourite colours! With this in mind I made liberal use of the purple colour as it is darker and offered better contrast than yellow.
 
