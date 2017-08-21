@@ -37,7 +37,7 @@ For the checkout page, I needed to think of a creative solution to handle custom
 
 We also introduced guest checkout, so a new user does not have to think about creating a password when they purchase from us the first time. It will ask the user if they want to create a account at the end, after payment is made and the order is successful. It will be optional to create an account.
 
-## Conclusion & Thoughts
+## Thoughts & Conclusion
 I tested my prototype with new employees within the company and they were all impressed by how easy it was get through checkout.  After implementation, we monitored the performance of the new design with the old and were very happy that we increased conversion rates by 23% in such a short amount of time!
 
 It was hard work as we had really tight deadlines, however with the help of the prototype, each developer could cross reference it to ensure each step and functionality was as intended. It was time well spent in creating the prototype as it served many uses.
