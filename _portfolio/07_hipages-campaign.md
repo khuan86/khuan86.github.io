@@ -31,9 +31,9 @@ Hipages is a website that started off as a directory of tradesmen in Australia. 
 {% include gallery %}
 
 ## Problem
-The Pay Per Lead system would give you an id from when you signed up, so the first customer would be assigned the number 1, second customer 2 etc. The lower their number, the higher they would appear in the search results (on the right hand side, similar to Google Adwords). This was a good way to keep customers loyal, but it wasn't very feasible in terms of aquiring new customers as there wasn't any incentives for them.
+The Pay Per Lead system would give you an id from when you signed up, so the first customer would be assigned the number 1, second customer 2 etc. The lower their number, the higher they would appear in the search results (on the right hand side, similar to Google Adwords). This was a good way to keep customers loyal, but it wasn't very feasible in terms of aquiring new customers as there weren't any incentives for them to join up, only to appear at the bottom of the list!
 
-After many discussions with the product managers and CEO, we identified that the processes for setting up a campaign on our site was tedious and manual. We relied heavily on our account managers to set everything up as well as our customer service and graphic design team to maintain it. An example of how tedius the work was for our account managers, was entering each and every postcode the client wanted to advertise for! We definately did not want the same process for our clients.
+After some discussion with the product managers and CEO, we identified that the processes for setting up a campaign on our site was tedious and involved a lot of "manual labour". We relied heavily on our account managers to set everything up as well as our customer service and graphic design team to maintain it. An example of how tedious the work was for our account managers, was entering each and every postcode the client wanted to advertise for! We definately did not want the same process for our clients.
 
 ## Approach
 After meeting with the account managers and learning about their work & processes, we took to the whiteboard to quickly brainstorm ideas and draw some really quick mock ups. After having more of an idea about the project, I started to flesh out my ideas on paper and then eventually drafted some wireframes on Axure. Speaking to product managers and account managers throughout the process to make sure I was heading in the right direction.
@@ -55,11 +55,11 @@ I also needed to make the process of creating/editing an easy process so that ev
 I mentioned earlier that our account managers had to enter each postcode in manually. It was one of their main complaints about using their existing system. My solution to this problem is quite simple: Show the postcodes after choosing the Region & Area and select the ones you want!
 
 ## Thoughts & Conclusion
-I had a lot of fun with this project, and one that I'm extremely proud of. I admit that the project was daunting at first and I was afraid of not being able to complete it by the time our sprint was over (our UX team was working in an Agile environment). In quite typical fashion in the realm of design, the sections that looked the most simple and straightforward took the most amount of my time.
+I had a lot of fun with this project, and one that I'm extremely proud of. I admit that the project was daunting at first and I was afraid of not being able to complete it by the time our sprint was over (our UX team was working in an Agile environment with monthly sprints). In the realm of design, the sections that looked the most simple and straightforward took the most amount of my time, but also the most rewarding.
 
-We tested this quick prototype with users that had little knowledge of campaign ads. They were able to easily create/edit a campaign and understood the whole process.
+We tested this quick prototype with internal staff that had zero-knowledge of campaign ads and they were able to easily create/edit a campaign and understood the whole process :)
 
-I was not around for the implementation of this project but I have heard that they have had great results with it and the account managers were begging the developers to implement the same in their back-end :D
+I was not around for the implementation of this project but I have heard that they have had great results with it and the account managers were begging the developers to implement the same features in their back-end :D
 
 ## Showcase
 <ul>
