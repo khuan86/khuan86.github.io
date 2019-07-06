@@ -59,7 +59,7 @@ I had site performance concerns for the use of the Avant Garde font as it's not 
 
 Even though I mostly communicated with the UX Designer via emails, I enjoyed the level of collaboration and team work involved. I sent through so many different variations through and after each one we got better and better at sharing the same vision for the site.
 
-I believe we achieved a great result given the turnaround time was 5 days from start to finish.
+I believe we achieved a great result given the turnaround time was 5 days from start to finish (for the whole project).
 
 ## Showcase
 <ul>
