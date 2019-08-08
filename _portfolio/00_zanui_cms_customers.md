@@ -1,6 +1,6 @@
 ---
-title: Zanui Admin CMS Redesign Wireframes (WIP)
-excerpt: Redesigned Zanui's Admin CMS, focusing on the Customer module first
+title: Zanui Admin CMS
+excerpt: Redesigned Zanui's Admin CMS, focusing on the Customer module first (WIP)
 header:
   image: 
   teaser: /assets/images/zanuiadminthumb.jpg
