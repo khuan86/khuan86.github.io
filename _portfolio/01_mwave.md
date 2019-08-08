@@ -8,20 +8,23 @@ sidebar:
   - title: Role
     text: UX/UI Design
   - title: tl;dr
-    text:  Designed a less confusing checkout for new and existing customers. The end result is a clean, focused and fast checkout that is simple to follow and understand whilst maintaining & strengthening the brand.
+    text:  Designed a more streamlined responsive checkout for new and existing customers. The end result is a clean, focused and fast checkout that is simple to follow and understand whilst maintaining & strengthening the brand.
   - title: Tools
     text: 'Balsamiq, Photoshop'
   - title: Year
     text: '2017'
 gallery:
-  - url: /assets/images/after-mwave_checkout-welcome.png
-    image_path: assets/images/previews_mwave-chkout-welcome-min.jpg
+  - url: /assets/images/1-mwave_checkout-welcome.png
+    image_path: assets/images/prev_1-mwave_checkout-welcome.jpg
     alt: Welcome page
-  - url: /assets/images/after-mwave_checkout-newuser-delivery.png
-    image_path: assets/images/previews_mwave-chkout-newusr-del-min.jpg
-    alt: Page after creating an account for new user
-  - url: /assets/images/after-mwave_checkout-existinguser-payment.png
-    image_path: /assets/images/previews_mwave-chkout-oldusr-del-min.jpg
+  - url: /assets/images/2-mwave_checkout-delivery.png
+    image_path: assets/images/prev_2-mwave_checkout-delivery.jpg
+    alt: Page after creating an account the new user to enter their shipping details
+  - url: /assets/images/1.2-mwave_checkout-existinguser.png
+    image_path: assets/images/prev_1.2-mwave_checkout-existinguser.jpg
+    alt: Login page for existing user
+  - url: /assets/images/1.3-mwave_checkout-existinguser-selectdel-payment.png
+    image_path: /assets/images/prev_1.3-mwave_checkout-existinguser-selectdel-payment.jpg
     alt: Existing user screen after filling in required information
   - url: /assets/images/before-mwavecheckout.png
     image_path: assets/images/previews_mwave-before-min.jpg
