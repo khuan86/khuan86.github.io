@@ -254,3 +254,6 @@ collections:
     values:
       author_profile: false
       read_time: false
+
+
+github: [metadata]
