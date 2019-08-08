@@ -94,7 +94,7 @@ I've paid extra attention to ensure the colour schemes used here was not jarring
 <ul>
   <li><a href="http://bit.ly/2YV3xlE" target="_blank">Welcome screen</a></li>
   <li><a href="http://bit.ly/2KB63Z8" target="_blank">Create a password for new user</a></li>
-  <li><a href="http://bit.ly/2MH34Bc" target="_blank">Finalising order for new user/a></li>
+  <li><a href="http://bit.ly/2MH34Bc" target="_blank">Finalising order for new user</a></li>
   <li><a href="http://bit.ly/2YDkbLy" target="_blank">Enter password for an existing user</a></li>
   <li><a href="http://bit.ly/2YX0Sbm" target="_blank">Finalising order for existing user </a></li>
 </ul>
