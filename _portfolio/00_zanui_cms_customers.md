@@ -26,7 +26,7 @@ As you can imagine, the customer service reps already have most of their hands f
 I added a more powerful filter where not only Customer Service Reps could use, but also the Marketing team. A use case example  may be that Marketing might want to run a campaign on customers who pay via AfterPay, or customers who reside in a particular delivery zone, or simply customers who have only made one order. They can easily create the filter, export the results and even save the filter with their parameters for future use.
 
 ### Customer Details
-In the Customer information page, I wanted to add more information that is easily digestable. At a glance, you could see what kind of customer you are looking at, based on their average order value, their Sift score (Fraud) as well as their basic information. The user is also able to add their own tags for each individual order and add/view notes. 
+In the Customer detail page, I wanted to add more information that is easily digestable. At a glance, you could see what kind of customer you are looking at; based on their average order value, their Sift score (Fraud) as well as their basic information. The user is also able to add their own tags for each individual order and add/view notes. I've added tabs to seperate other details as well as having the benefit of scalability.
 
 ### Thoughts
 I am really enjoying this project as I just love designing solutions that will impact all aspects of the business, as well as their customers. So far, the stakeholders are just as excited and share the same passion to really make this Admin overhaul a success, and I'm happy they allow me to really push the limits by adding a ton of new functionality.
