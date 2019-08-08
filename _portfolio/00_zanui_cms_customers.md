@@ -17,7 +17,7 @@ sidebar:
 published: true
 ---
 
-Note: This is an ongoing project that is currently a work-in-progress. I have quickly mocked my ideas in Balsamiq (as shown at the bottom) and have begun recreating in Figma.
+Note: This is an ongoing project that is currently a work-in-progress. I used Balsamiq for my wireframes and have begun recreating in Figma.
 
 ### Overview
 As you can imagine, the customer service reps already have most of their hands full while they're on the phone with customers; they desperately need a better system so that they are able to assist their customers in a quick and efficient manner. It was a no-brainer that this admin section was going to be the first problem to tackle.
