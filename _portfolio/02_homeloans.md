@@ -53,7 +53,7 @@ The visual hierarchy is important in this landing page as you need to meet the b
 ### Design
 The client gave me creative freedom for this project. This included copywriting. Having found the perfect picture that captured the moment I wanted, I just needed supporting text to accompany the vision. I came up with `Compare homeloans with a mortgage broker today!` I just needed something short and snappy. The call-to-action button needed to get the user to engage. Everybody loves free right? You'd be surprised that many people do not know that mortgage brokers are free (banks pay them commission). My call-to-action text reads `Get your free consultation now`.
 
-{% include figure image_path="/assets/images/eg-cta.png" caption="Using an actionable word `Get` paired with `free` achieves two purpose: informing the user that it's a free service and "gets" them to engage by clicking. Two birds with one stone!" %}
+{% include figure image_path="/assets/images/eg-cta.png" caption="Using an actionable word `Get` paired with `free` achieves two purpose: informing the user that it's a free service and encourages the user to engage by clicking. Two birds with one stone!" %}
 
 Half of the battle is won once the user is on the landing-page. Now to convince them to part with their information. This page is where I needed to really convince them!
 
