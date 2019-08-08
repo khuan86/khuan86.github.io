@@ -20,6 +20,9 @@ gallery:
   - url: /assets/images/2-mwave_checkout-delivery.png
     image_path: assets/images/prev_2-mwave_checkout-delivery.jpg
     alt: Page after creating an account the new user to enter their shipping details
+  - url: /assets/images/3-mwave_checkout-payment.png
+    image_path: assets/images/prev_3-mwave_checkout-payment.jpg
+    alt: New user payment page/finalisation
   - url: /assets/images/1.2-mwave_checkout-existinguser.png
     image_path: assets/images/prev_1.2-mwave_checkout-existinguser.jpg
     alt: Login page for existing user
@@ -89,9 +92,11 @@ I've paid extra attention to ensure the colour schemes used here was not jarring
 
 **After**
 <ul>
-  <li><a href="https://goo.gl/HRsXNp" target="_blank">Welcome screen</a></li>
-  <li><a href="https://goo.gl/TGMwCK" target="_blank">New user screen after creating an account</a></li>
-  <li><a href="https://goo.gl/8HESzT" target="_blank">Existing user screen after filling in required information</a></li>
+  <li><a href="http://bit.ly/2YV3xlE" target="_blank">Welcome screen</a></li>
+  <li><a href="http://bit.ly/2KB63Z8" target="_blank">Create a password for new user</a></li>
+  <li><a href="http://bit.ly/2MH34Bc" target="_blank">Finalising order for new user/a></li>
+  <li><a href="http://bit.ly/2YDkbLy" target="_blank">Enter password for an existing user</a></li>
+  <li><a href="http://bit.ly/2YX0Sbm" target="_blank">Finalising order for existing user </a></li>
 </ul>
 
 **Wireframes**
