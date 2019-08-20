@@ -31,7 +31,7 @@ In the Customer detail page, I wanted to add more information that is easily dig
 ### Thoughts
 I am really enjoying this project as I just love designing solutions that will impact all aspects of the business, as well as their customers. So far, the stakeholders are just as excited and share the same passion to really make this Admin overhaul a success, and I'm happy they allow me to really push the limits by adding a ton of new functionality.
 
-I'm also very keen and excited to learn Figma with this project and I can see why the Design community are starting to switch over to Figma over Sketch!
+I'm also very keen and excited to learn Figma with this project and I can see why the Design community are starting to switch over to Figma from Sketch! The fact that you are also able to collaborate live is a huge bonus. Overall quite impressed with it!
 
 ## Showcase
 **Before**
