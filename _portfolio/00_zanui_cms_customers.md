@@ -31,9 +31,14 @@ In the Customer detail page, I wanted to add more information that is easily dig
 ### Thoughts
 I am really enjoying this project as I just love designing solutions that will impact all aspects of the business, as well as their customers. So far, the stakeholders are just as excited and share the same passion to really make this Admin overhaul a success, and I'm happy they allow me to really push the limits by adding a ton of new functionality.
 
-I'm also very keen and excited to learn Figma with this project and I can see why the Design community are starting to switch over to Figma from Sketch! The fact that you are also able to collaborate live is a huge bonus. Overall quite impressed with it!
+### Bonus Thoughts: Figma
+I'm very keen and excited to learn Figma with this project and I can see why the Design community are starting to switch over to Figma from Sketch! 
 
-## Showcase
+As the CMS will be affectionally referred to as Bluejay, I decided it would be great to have a cute logo of a Bluejay bird and it would be a good challenge to make it in Figma... well I must say, it was a very pleasant experience! I don't think I could use any other vectoring program after using Figma's. Their "Vector Networks" is just downright mind-blowing COOL. Also, the fact that you are also able to collaborate live is a huge bonus and is absolutely great for collaboration. From their component system to their libraries, to their constraint properties... all this power and you can run it in a browser! 🤯 
+
+TL;DR: Figma = 👍😍
+
+## Showcase (opens in new window)
 **Before**
 <ul>
   <li><a href="http://bit.ly/2ON0BrF" target="_blank">Customer List</a></li>
@@ -45,4 +50,9 @@ I'm also very keen and excited to learn Figma with this project and I can see wh
 <ul>
   <li><a href="http://bit.ly/2YyVik6" target="_blank">Customer List</a></li>
   <li><a href="http://bit.ly/33jXHOb" target="_blank">Customer Detail/Orders</a></li>
+</ul>
+
+**Design System**
+<ul>
+   <li><a href="http://bit.ly/2luNJIk" target="_blank">Design System created in Figma (WIP)</a></li>
 </ul>
