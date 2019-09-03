@@ -34,7 +34,7 @@ I am really enjoying this project as I just love designing solutions that will i
 ### Bonus Thoughts: Figma
 I'm very keen and excited to learn Figma with this project and I can see why the Design community are starting to switch over to Figma from Sketch! 
 
-As the CMS will be affectionally referred to as Bluejay, I decided it would be great to have a cute logo of a Bluejay bird and it would be a good challenge to make it in Figma... well I must say, it was a very pleasant experience! I don't think I could use any other vectoring program after using Figma's. Their "Vector Networks" is just downright mind-blowing COOL. Also, the fact that you are also able to collaborate live is a huge bonus and is absolutely great for collaboration. From their component system to their libraries, to their constraint properties... all this power and you can run it in a browser! 🤯 
+As the CMS will be affectionally referred to as Bluejay, I decided it would be great to have a cute logo of a Bluejay bird and it would be a good challenge to make it in Figma... well I must say, it was a very pleasant experience! I don't think I could use any other vectoring program after using Figma's. Their "Vector Networks" is just downright mind-blowing COOL. From their component system to the way they handle libraries (assets), to their constraint properties... all this power and you can run it in a browser lag-free! 🤯 
 
 TL;DR: Figma = 👍😍
 
