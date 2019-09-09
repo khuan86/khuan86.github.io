@@ -39,12 +39,12 @@ There was way of displaying if you had any notifications if you were logged in. 
 
 The header menu needed to be cleaned up as a lot of it is repeated if you hovered over `Deals`. The categories were already displayed underneath the main header menu, so this is redundant.
 
-{% include figure image_path="/assets/images/eg-ozb-old-nav.png" caption="Links that the average bargain hunter doesn't care about" %}
+{% include figure image_path="/assets/images/eg-ozb-old-nav.png" caption="Prime realestate that I believe could be used for better navigational links." %}
 
 ## Solution
 The site already had logic built into it where it displays the most up-voted deals first, however the old design never communicates this to the user. To view new/just posted deals, you had to click on the `Deals` section of the navigation bar. A lot of people that I have spoken to had no idea they were able to do that. The solution was quite simple for me as I simply reorganised those links and placed them under the main header. 
 
-{% include figure image_path="/assets/images/eg-ozb-new-nav.png" caption="More user friendly as they're able to filter deals that they want to see." %}
+{% include figure image_path="/assets/images/eg-ozb-new-nav.png" caption="Users are able filter deals that they want to see." %}
 
 As mentioned earlier, I wanted the user to feel like they owned their account. I felt that I achieved this by having their display picture shown prominently on the top right corner of the header. If the user had any notifications, it would make sense to also have this appear near their display picture.
 
@@ -60,7 +60,7 @@ Overall I am quite pleased with the results. I didn't want to spend too long on 
 
 ## Showcase
 <ul>
-  <li><a href="https://goo.gl/3bxbAC" target="_blank">Before</a></li>
-  <li><a href="https://goo.gl/4CgJtG" target="_blank">After</a></li>
-  <li><a href="https://goo.gl/n3LsKp" target="_blank">Wireframe</a></li>
+  <li><a href="http://bit.ly/2kBgnY5" target="_blank">Before</a></li>
+  <li><a href="http://bit.ly/2lKTjpW" target="_blank">After</a></li>
+  <li><a href="http://bit.ly/2m45LRX" target="_blank">Wireframe</a></li>
 </ul>
