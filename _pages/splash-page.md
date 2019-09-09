@@ -10,7 +10,7 @@ header:
   cta_label:
   cta_url:
   caption:
-excerpt: "Lover of animals. Gamer. LA Dodgers fan. Human."
+excerpt: "Gamer. LA Dodgers fan. Mini-Painter. Human."
 intro:
   - excerpt:
 ---
