@@ -1,6 +1,6 @@
 ---
 title: "Hipages"
-excerpt: "Created an entirely new feature for advertiser's to manage their ad campaigns"
+excerpt: "Designed new feature from the ground up for clients to manage their own ad campaigns"
 header:
   image:
   teaser: "/assets/images/hipagescampaignthumb.png"
@@ -8,7 +8,7 @@ sidebar:
   - title: "Role"
     text: "Information Architect, UX Design"
   - title: "tl;dr"
-    text: "I designed a new feature for our clients to use where they were able to manage/edit their own campaigns that was so intuitive to use, our own account managers wanted it in their back-end system! :)"
+    text: "I designed a new feature for our clients to use where they were able to manage/edit their own campaigns that was so intuitive to use, our own account managers wanted it in their back-end system! 😊"
   - title: "Tools"
     text: "Axure"
   - title: "Year"
@@ -44,9 +44,9 @@ Most of our tradesmen are not very tech savvy, so trying to design a brand new m
 ## Solution
 I wanted our users to be able to understand quickly where their money is going at a glance. People don't like numbers, so it's important to be able to show them in a simple way what each numbers represent. The solution? Progress bars!
 
-{% include figure image_path="/assets/images/eg-old-campaignoverview.png" caption="One of my original concepts. So much text!" %}
+{% include figure image_path="/assets/images/eg-old-campaignoverview.png" caption="One of my original concepts. So much text! 🤪" %}
 
-{% include figure image_path="/assets/images/eg-new-campaignoverview.png" caption="That's better. Bigger numbers, less text. Concise!" %}
+{% include figure image_path="/assets/images/eg-new-campaignoverview.png" caption="That's better. Bigger numbers and less text 👍" %}
 
 I also needed to make the process of creating/editing an easy process so that even people who don't really understand what a campaign is can use it. We definately could not use what our account managers use for our clients as their process was incredibly tedious. My solution to this was to really simplify as much as I could. Limiting as much typing as possible and utilise drop-down menus and button selectors.
 
@@ -57,9 +57,9 @@ I mentioned earlier that our account managers had to enter each postcode in manu
 ## Thoughts & Conclusion
 I had a lot of fun with this project, and one that I'm extremely proud of. I admit that the project was daunting at first and I was afraid of not being able to complete it by the time our sprint was over (our UX team was working in an Agile environment with monthly sprints). In the realm of design, the sections that looked the most simple and straightforward took the most amount of my time, but also the most rewarding.
 
-We tested this quick prototype with internal staff that had zero-knowledge of campaign ads and they were able to easily create/edit a campaign and understood the whole process :)
+We tested this quick prototype with internal staff that had zero-knowledge of campaign ads and they were able to easily create/edit a campaign and understood the whole process.
 
-I was not around for the implementation of this project but I have heard that they have had great results with it and the account managers were begging the developers to implement the same features in their back-end :D
+I was not around for the implementation of this project but I have heard that they have had great results with it and the account managers were begging the developers to implement the same features in their back-end 🥰😊
 
 ## Showcase
 <ul>
