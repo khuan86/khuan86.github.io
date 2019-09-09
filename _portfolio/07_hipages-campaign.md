@@ -63,7 +63,7 @@ I was not around for the implementation of this project but I have heard that th
 
 ## Showcase
 <ul>
-  <li><a href="https://goo.gl/etFdeG" target="_blank">Campaign overview</a></li>
-  <li><a href="https://goo.gl/6gujFm" target="_blank">Editing a campaign</a></li>
-  <li><a href="https://goo.gl/m84HUf" target="_blank">An earlier revision</a></li>
+  <li><a href="http://bit.ly/2k23p5o" target="_blank">Campaign overview</a></li>
+  <li><a href="http://bit.ly/2lJjpcY" target="_blank">Editing a campaign</a></li>
+  <li><a href="http://bit.ly/2m5FEdw" target="_blank">An earlier revision</a></li>
 </ul>
