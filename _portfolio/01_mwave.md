@@ -1,6 +1,6 @@
 ---
 title: Mwave
-excerpt: Checkout redesign for one of Australia's leading online IT stores
+excerpt: Responsive one-page checkout redesign for Australia's largest online tech retailer
 header:
   image: 
   teaser: /assets/images/mwavethumb.png
