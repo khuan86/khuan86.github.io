@@ -49,7 +49,7 @@ Mwave is one of Australia's leading online IT stores. The homepage has had a few
 
 {% include gallery %}
 
-<a href="https://invis.io/VRTTJKOHX49" target="_blank" class="btn btn--large btn--info">View on Invision »</a>
+<a href="http://bit.ly/2kpfTEF" target="_blank" class="btn btn--large btn--info">View on Invision »</a>
 
 ## Problem
 The old checkout user flow is quite clunky. There were too many steps to achieve a simple goal: purchase the items quickly and painlessly. It was also not responsive, therefore making mobile transactions very frustrating to use.
@@ -85,11 +85,13 @@ The purple and yellow colours from the mwave logo has been used throughout the r
 
 I've paid extra attention to ensure the colour schemes used here was not jarring for the user. I maintained its brand identity whilst keeping it up-to-date with current design trends. With a healthy use of white space, text line-spacing and icons, the redesign achieved a well balanced design of functionality, usability and aesthetics.
 
+<a href="http://bit.ly/2kpfTEF" target="_blank" class="btn btn--large btn--info">View on Invision »</a>
+
 ## Showcase
 **Before**
 <ul>
-  <li><a href="https://goo.gl/BRZozz" target="_blank">Selecting your address</a></li>
-  <li><a href="https://goo.gl/AE8QPs" target="_blank">Selecting shipping options</a></li>
+  <li><a href="http://bit.ly/2kpfYbr" target="_blank">Selecting your address</a></li>
+  <li><a href="http://bit.ly/2lKFVSJ" target="_blank">Selecting shipping options</a></li>
 </ul>
 
 **After**
@@ -103,6 +105,6 @@ I've paid extra attention to ensure the colour schemes used here was not jarring
 
 **Wireframes**
 <ul>
-  <li><a href="https://goo.gl/hLUkDM" target="_blank">Mobile/tablet view</a></li>
-  <li><a href="https://goo.gl/AjbENK" target="_blank">Desktop view</a></li>
+  <li><a href="http://bit.ly/2k5QLSX" target="_blank">Mobile/tablet view</a></li>
+  <li><a href="http://bit.ly/2m5Hg74" target="_blank">Desktop view</a></li>
 </ul>
