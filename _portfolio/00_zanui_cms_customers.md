@@ -54,5 +54,5 @@ TL;DR: Figma = 👍😍
 
 **Design System**
 <ul>
-   <li><a href="http://bit.ly/2luNJIk" target="_blank">Design System created in Figma (WIP)</a></li>
+   <li><a href="http://bit.ly/2luNJIk" target="_blank">Preview of the Design System created in Figma (WIP)</a></li>
 </ul>
