@@ -46,7 +46,7 @@ The visual hierarchy of the landing page must be straight the point where the us
 
 As soon as you land on the page, you will see the form right in the middle; no distractions. If the user wanted to learn more, they can either scroll down or click on the links above (which serves the same purpose since it is all on one page). They were mainly there to support the trust I wanted to build. Information should be easy to find, else you risk making the page looking like a scam. The idea was to have this top-section of the webpage fill the entire browser.
 
-{% include figure image_path="/assets/images/eg-contactus.png" caption="Having `Contact Us` and `Our Company` on the the top right reassures the user that the homeloans.com.au brand is real and if they prefer, contact them instead of being contacted." %}
+{% include figure image_path="/assets/images/eg-contactus.png" caption="Displaying Contact Us and Our Company on the the top right reassures the user that the homeloans.com.au brand is real and if they prefer, contact them instead of being contacted." %}
 
 The visual hierarchy is important in this landing page as you need to meet the business requirements, however this is only half of the equation, as the design aspect is just as important since you need to convince them that you are a legitimate company and not out to scam them. On the surface it looks quite simple, but you need a good balance between meeting business goals, as well as good design to achieve it!
 
@@ -67,6 +67,6 @@ As for colours, blue is known psychologically to be a trustworthy colour. I used
 
 ## Showcase
 <ul>
-  <li><a href="https://goo.gl/5VnMYP" target="_blank">Banner ad</a></li>
-  <li><a href="https://goo.gl/vEEg1U" target="_blank">Landing page</a></li>
+  <li><a href="http://bit.ly/2kmwlFD" target="_blank">Banner ad</a></li>
+  <li><a href="http://bit.ly/2kyPrs5" target="_blank">Landing page</a></li>
 </ul>
