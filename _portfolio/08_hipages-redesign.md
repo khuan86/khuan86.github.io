@@ -8,9 +8,9 @@ sidebar:
   - title: "Role"
     text: "Information Architect, UX Design"
   - title: "tl;dr"
-    text: "Redesigned the homepage for scalability, growth and better UX practices and in doing so, strengthening the brand prescence while increasing revenue from prospective client enquiries."
+    text: "Redesigned the homepage for scalability, growth and adopted UX best-practices. In doing so, we strengthend the brand while increasing revenue from an uptake in client enquiries."
   - title: "Tools"
-    text: "Axure"
+    text: "Axure, Photoshop"
   - title: "Year"
     text: "2012"
 gallery:
@@ -41,7 +41,7 @@ We did many iterations of the design. While we wanted to remove the `Featured Bu
 ## Solution
 Most people who land on the site would begin searching. We designed the search field to be more prominent and the text-field to be active automatically. We removed a lot of the SEO text as it look up a large chunk of the old design and made the webpage overwhelming with text.
 
-{% include figure image_path="/assets/images/eg-hip-search.png" caption="Having the search field active upon site load, the user is able to type immediately, similar to Google.com" %}
+{% include figure image_path="/assets/images/eg-hip-search.png" caption="Having the search field active upon site load, the user is able to type immediately, similar to Google" %}
 
 We found that a lot of people click on the What's Hot links so we decided to try something and add them underneath the search field. We also wanted to increase the user's length of stay on the site so we featured some of our most popular articles in our best categories. This helps user engagement and is great for SEO.
 
@@ -54,7 +54,7 @@ We moved the `List your business` to the top and give it its own colour that sto
 {% include figure image_path="/assets/images/eg-hip-listbusiness.png" caption="Moving this to the top resulted in higher conversion rates" %}
 
 ## Thoughts & Conclusion
-We did well in updating an outdated website into a modern design while strengthening the brand. Many employees that have worked at Hipages for a long time welcomed the change with open arms.
+We did well in updating an outdated website into a modern design while strengthening the brand. Many employees that have worked at Hipages for years welcomed the change with open arms.
 
 The account managers were very pleased with the results as they have been receiving an **increase** in enquiries by prospective clients. We had an uptake in registered users as well, so this meant we could start pushing for more features for our users that would eventually lead in generating more business for our clients.
 
@@ -62,6 +62,6 @@ We plan to monitor the analytics and click heatmaps of the site and constantly m
 
 ## Showcase
 <ul>
-  <li><a href="https://goo.gl/QmCXrx" target="_blank">After</a></li>
-  <li><a href="https://goo.gl/Lr4HYj" target="_blank">Before</a></li>
+  <li><a href="http://bit.ly/2lZxraz" target="_blank">After</a></li>
+  <li><a href="http://bit.ly/2lJjSMg" target="_blank">Before</a></li>
 </ul>
