@@ -35,7 +35,7 @@ It was also strange that the page did not show the agent's name. This must've be
 It is a missed opportunity by not having any call-to-action buttons to contact this agent.
 
 ## Solution
-It was initially briefed to just redesign the page to keep it inline with the new homepage with a couple of additions, however after redesigning it, I felt that I could do better and re-do the whole page. I sent them both versions and they preferred the one I came up with :)
+It was initially briefed to just redesign the page to keep it inline with the new homepage with a couple of additions, however after redesigning it, I felt that I could do better and re-do the whole page. I sent them both versions and they preferred the one I came up with 😊
 
 My thoughts were, being an agent profile, you want the essential information appear at all times (as with the original). However having it kept at the top took up too much valuable space for everything else. By placing the agent's picture on the left where it can always be seen, we can have important information with call-to-action buttons there at all times.
 
@@ -46,12 +46,12 @@ I was also not a huge fan of the previous design's review icons. I opted for som
 {% include figure image_path="/assets/images/eg-openagent-stars.png" caption="Using universally understood icons is easier for users to recognise and make sense of." %}
 
 ## Thoughts & Conclusion
-The client was very pleased with my "take" and I'm glad I stuck with my gut and re-did the design even though it was initially briefed for just a simple redesign based on the old one.
+The client was very pleased with my solution and I'm glad I stuck with my gut and re-did the design even though it was initially briefed for just a simple redesign based on the old one.
 
 With the help of white space, the content overall looks more organised and coherent. It is easy to follow and information is easier to digest.
 
 ## Showcase
 <ul>
-  <li><a href="https://goo.gl/GMPXwG" target="_blank">Before</a></li>
-  <li><a href="https://goo.gl/1USo2A" target="_blank">After</a></li>
+  <li><a href="http://bit.ly/2kmw19T" target="_blank">Before</a></li>
+  <li><a href="http://bit.ly/2lIOwpm" target="_blank">After</a></li>
 </ul>
