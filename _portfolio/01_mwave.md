@@ -8,9 +8,9 @@ sidebar:
   - title: Role
     text: UX/UI Design
   - title: tl;dr
-    text:  Designed a more streamlined responsive checkout for new and existing customers. The end result is a clean, focused and fast checkout that is simple to follow and understand whilst maintaining & strengthening the brand.
+    text:  Designed a more streamlined responsive checkout for new and existing customers. The end result is a clean, focused and fast checkout that is simple to follow and understand whilst maintaining & strengthening the brand identity.
   - title: Tools
-    text: 'Balsamiq, Photoshop'
+    text: 'Balsamiq, Photoshop, Invision'
   - title: Year
     text: '2017'
 gallery:
