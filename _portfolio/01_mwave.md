@@ -49,6 +49,8 @@ Mwave is one of Australia's leading online IT stores. The homepage has had a few
 
 {% include gallery %}
 
+<a href="https://invis.io/VRTTJKOHX49" target="_blank" class="btn btn--large btn--info">View on Invision »</a>
+
 ## Problem
 The old checkout user flow is quite clunky. There were too many steps to achieve a simple goal: purchase the items quickly and painlessly. It was also not responsive, therefore making mobile transactions very frustrating to use.
 
