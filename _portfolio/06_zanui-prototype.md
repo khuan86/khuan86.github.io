@@ -18,7 +18,7 @@ sidebar:
 ## Overview
 Zanui is a start-up wanting to make its mark on the Australian homewares eCommerce sector. When I joined it was only in business for a month. They needed to overhaul their entire site for better usability that will lead to higher conversion rates.
 
-<a href="http://nd2u6l.axshare.com/" target="_blank" class="btn btn--large btn--info">View the prototype »</a>
+<a href="http://bit.ly/2m7yW6V" target="_blank" class="btn btn--large btn--info">View the prototype »</a>
 
 ## Problem
 The product page needed a complete overhaul as the old one was quite basic in features. There was no way for users to choose a product variation, we simply just had separate product pages for each one eg. Size S, M, L would all be separate product pages. This didn't make for good user experience and is harder to cross-sell items. We also needed a way to increase the average cart value.
@@ -42,4 +42,4 @@ I tested my prototype with new employees within the company and they were all im
 
 It was hard work as we had really tight deadlines, however with the help of the prototype, each developer could cross reference it to ensure each step and functionality was as intended. It was time well spent in creating the prototype as it served many uses.
 
-<a href="http://nd2u6l.axshare.com/" target="_blank" class="btn btn--large btn--info">View the prototype »</a>
+<a href="http://bit.ly/2m7yW6V" target="_blank" class="btn btn--large btn--info">View the prototype »</a>
