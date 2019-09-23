@@ -49,18 +49,17 @@ TL;DR: Figma = 👍😍
 </ul>
 
 **After**
-<ul>
-  Customer List
+Customer List
   <ul>
       <li><a href="http://bit.ly/2YyVik6" target="_blank">Wireframe</a></li>
       <li><a href="http://bit.ly/2m4yZ39" target="_blank">Figma Prototype - Desktop View</a></li>
       <li><a href="http://bit.ly/2kusxSC" target="_blank">Figma Prototype - Tablet View</a></li>
       <li><a href="http://bit.ly/2m7HGto" target="_blank">Figma Prototype - Mobile View</a></li>
   </ul>
-  Customer Details/Order
-  <ul><li><a href="http://bit.ly/33jXHOb" target="_blank">Wireframe</a></li>
+Customer Details/Order
+  <ul>
+  <li><a href="http://bit.ly/33jXHOb" target="_blank">Wireframe</a></li>
   </ul>
-</ul>
 
 **Design System**
 <ul>
