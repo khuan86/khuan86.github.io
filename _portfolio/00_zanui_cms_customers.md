@@ -49,6 +49,7 @@ TL;DR: Figma = 👍😍
 </ul>
 
 **After**
+
 Customer List
   <ul>
       <li><a href="http://bit.ly/2YyVik6" target="_blank">Wireframe</a></li>
