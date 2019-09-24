@@ -3,7 +3,7 @@ title: Zanui Admin CMS
 excerpt: Redesigned Zanui's Admin CMS, focusing on the Customer module first (WIP)
 header:
   image: 
-  teaser: /assets/images/bluejaythumb.png
+  teaser: /assets/images/bluejaythumbnail2x.png
 sidebar:
   - title: Role
     text: UX/UI Design
