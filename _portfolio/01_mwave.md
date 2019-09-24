@@ -3,7 +3,7 @@ title: Mwave
 excerpt: Responsive one-page checkout redesign for Australia's largest online tech retailer
 header:
   image: 
-  teaser: /assets/images/MwaveThumb2x.jpg
+  teaser: /assets/images/MwaveThumb2x.png
 sidebar:
   - title: Role
     text: UX/UI Design
