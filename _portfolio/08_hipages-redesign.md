@@ -3,7 +3,7 @@ title: "Hipages"
 excerpt: "Homepage redesign that focuses on scalablity, branding and growth"
 header:
   image:
-  teaser: "/assets/images/hipageshpthumb.png"
+  teaser: "/assets/images/HipagesHPThumb2x.png"
 sidebar:
   - title: "Role"
     text: "Information Architect, UX Design"
