@@ -3,7 +3,7 @@ title: "Zanui"
 excerpt: "Conducted user-testing with a prototype of the product page to checkout userflow"
 header:
   image:
-  teaser: "/assets/images/zanuithumb.png"
+  teaser: "/assets/images/ZanuiProtoThumb2x.png"
 sidebar:
   - title: "Role"
     text: "UX/UI Design"
