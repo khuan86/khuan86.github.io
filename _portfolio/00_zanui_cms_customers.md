@@ -19,7 +19,7 @@ published: true
 
 Note: This is an ongoing project that is currently a work-in-progress. I used Balsamiq for my wireframes and currently creating in Figma.
 
-<a href="http://bit.ly/2m4yZ39" target="_blank" class="btn btn--large btn--info">Customer List Figma Prototype - Desktop View »</a>
+<a href="http://bit.ly/2kKnVb5" target="_blank" class="btn btn--large btn--info">Customer List Figma Prototype - Desktop View »</a>
 
 ### Overview
 As you can imagine, the customer service reps already have most of their hands full while they're on the phone with customers; they desperately need a better system so that they are able to assist their customers in a quick and efficient manner. It was a no-brainer that this admin section was going to be the first problem to tackle.
@@ -53,9 +53,9 @@ Overall, I give it a solid 9/10 🥰
 Customer List
   <ul>
       <li><a href="http://bit.ly/2YyVik6" target="_blank">Wireframe</a></li>
-      <li><a href="http://bit.ly/2m4yZ39" target="_blank">Figma Prototype - Desktop View</a></li>
-      <li><a href="http://bit.ly/2kusxSC" target="_blank">Figma Prototype - Tablet View</a></li>
-      <li><a href="http://bit.ly/2m7HGto" target="_blank">Figma Prototype - Mobile View</a></li>
+      <li><a href="http://bit.ly/2kKnVb5" target="_blank">Figma Prototype - Desktop View</a></li>
+      <li><a href="http://bit.ly/2mpFJsr" target="_blank">Figma Prototype - Tablet View</a></li>
+      <li><a href="http://bit.ly/2kPCwCi" target="_blank">Figma Prototype - Mobile View</a></li>
   </ul>
 Customer Details/Order
   <ul>
