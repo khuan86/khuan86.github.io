@@ -34,11 +34,11 @@ In the Customer detail page, I wanted to add more information that is easily dig
 I am really enjoying this project as I just love designing solutions that will impact all aspects of the business, as well as their customers. So far, the stakeholders are just as excited and share the same passion to really make this Admin overhaul a success, and I'm happy they allow me to really push the limits by adding a ton of new functionality.
 
 ### Bonus Thoughts: Figma
-I'm very keen and excited to learn Figma with this project and I can see why the Design community are starting to switch over to Figma from Sketch! Just one of many of the coolest features in Figma is vector networks. As someone who is not very confident in creating icons, I was very impressed by how easy and intuitive it was for me to create the Bluejay logo 👏
+I'm very keen and excited to learn Figma with this project and I can see why the Design community are starting to switch over to Figma from Sketch! Just one of many of the coolest features in Figma is vector networks. As someone who is not very confident in creating icons, I was very impressed by how easy and intuitive it was for me to create the Bluejay logo. Vector Networks: 😍
 
-From their component system to the way they handle libraries (assets), to their constraint properties... I was beginning to think that Figma's got it all! But there is one frustrating issue I have with Figma as someone who is coming from a heavy Axure user in the past. I understand Figma is more of an Invision replacement, but it's just a little frustrating to create so many components/instances for a simple micro-interaction. I think Figma can improve in this area and I don't doubt they will smash it out of the park. I would also love to see simple animations built in, then it'd be 100% solid for me. With that said though, I am still amazed at how incredibly smooth it runs in the browser. I cannot tell the performance difference between the app and the browser. Cross-platform support via the browser is ingenius and very nice for people like me who are primarily a PC user (don't hate!).
+From their component system to the way they handle libraries (assets), to their constraint properties... I was beginning to think that Figma's got it all, but there was one frustrating issue I had as a heavy Axure user in the past. I understand Figma is more of an Invision replacement, but it's just a little frustrating to create so many components/instances for some of the interactions I needed to prototype, however I am being very nitpicky and I'm sure I'll get used to it with time.
 
-Overall, Figma is fantastic. Their free tier is very generous and enough for most users, it is cross-platform and it certainly does remove a lot of other 3rd party web apps. I give it a solid 8/10 🥰
+Overall, I give it a solid 9/10 🥰
 
 ## Showcase (opens in new window)
 **Before**
