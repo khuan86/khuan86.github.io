@@ -3,7 +3,7 @@ title: "OpenAgent"
 excerpt: "Agent profile page redesigned to match with the new site"
 header:
   image:
-  teaser: "/assets/images/openagentprofilethumb.png"
+  teaser: "/assets/images/OpenAgentProfileThumb2x.png"
 sidebar:
   - title: "Role"
     text: "UX/UI Design, Art Direction"
