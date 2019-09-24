@@ -3,7 +3,7 @@ title: "Ozbargain"
 excerpt: "A fun personal side-project to redesign a popular community website"
 header:
   image:
-  teaser: "/assets/images/ozbargainthumb.png"
+  teaser: "/assets/images/OzBThumb2x.png"
 sidebar:
   - title: "Role"
     text: "UX/UI Design, Art Direction "
