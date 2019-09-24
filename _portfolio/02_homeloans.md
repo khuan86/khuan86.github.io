@@ -3,7 +3,7 @@ title: "Homeloans"
 excerpt: "Designed a new landing page for lead generation"
 header:
   feature-img:
-  teaser: /assets/images/homeloansthumb.png
+  teaser: /assets/images/HomeloansThumb2x.png
 sidebar:
   - title: "Role"
     text: "UX/UI design, Copywriting, Art Direction"
