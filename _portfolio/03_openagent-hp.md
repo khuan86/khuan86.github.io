@@ -3,7 +3,7 @@ title: "OpenAgent"
 excerpt: "Redesigning & rebranding an up and coming startup that wants to make its mark!"
 header:
   image:
-  teaser: "/assets/images/openagenthpthumb.png"
+  teaser: "/assets/images/OpenAgentHPThumb2x.png"
 sidebar:
   - title: "Role"
     text: "UX/UI Design, Art Direction"
