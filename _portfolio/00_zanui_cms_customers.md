@@ -54,8 +54,8 @@ Customer List
   <ul>
       <li><a href="http://bit.ly/2YyVik6" target="_blank">Wireframe</a></li>
       <li><a href="http://bit.ly/2kKnVb5" target="_blank">Figma Prototype - Desktop View</a></li>
-      <li><a href="http://bit.ly/2mpFJsr" target="_blank">Figma Prototype - Tablet View</a></li>
-      <li><a href="http://bit.ly/2kPCwCi" target="_blank">Figma Prototype - Mobile View</a></li>
+      <li><a href="http://bit.ly/30Mf5Zi" target="_blank">Figma Prototype - Tablet View</a></li>
+      <li><a href="http://bit.ly/2pKPy67" target="_blank">Figma Prototype - Mobile View</a></li>
   </ul>
 Customer Details/Order
   <ul>
